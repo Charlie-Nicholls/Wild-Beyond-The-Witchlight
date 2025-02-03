@@ -1,0 +1,1053 @@
+{
+  "monsters": [
+    [
+      "Van Patten Mercenary",
+      {
+        "image": null,
+        "name": "Van Patten Mercenary",
+        "source": "CritterDB",
+        "type": "Humanoid (human)",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Chaotic Neutral",
+        "hp": 7,
+        "hit_dice": "1d8 + 2",
+        "ac": 13,
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          15,
+          15,
+          9,
+          11,
+          11
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": 5
+          },
+          {
+            "constitution": 4
+          },
+          {
+            "wisdom": 2
+          }
+        ],
+        "skillsaves": [],
+        "senses": "",
+        "languages": "Common",
+        "traits": [],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 3 slashing damage."
+          },
+          {
+            "name": "Crossbow, hand",
+            "desc": "Ranged Weapon Attack: +2 to hit, range 40/80 ft., one target. Hit: 2 piercing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Eddie Van Patten",
+      {
+        "image": null,
+        "name": "Eddie Van Patten",
+        "source": "CritterDB",
+        "type": "Human",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 9,
+        "hit_dice": "2d8 + 0",
+        "ac": 10,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          10,
+          10,
+          12,
+          9,
+          14
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [
+          {
+            "Deception": 4
+          }
+        ],
+        "senses": "",
+        "languages": "Common",
+        "traits": [],
+        "actions": [
+          {
+            "name": "Dagger",
+            "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d4) piercing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "modifier": 0,
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Huck",
+      {
+        "image": null,
+        "name": "Huck",
+        "source": "CritterDB",
+        "type": "Construct",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Lawful Neutral",
+        "hp": 9,
+        "hit_dice": "2d8 + 0",
+        "ac": 12,
+        "speed": "30 ft.",
+        "stats": [
+          13,
+          12,
+          10,
+          10,
+          10,
+          11
+        ],
+        "damage_immunities": "poison",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned",
+        "saves": [],
+        "skillsaves": [
+          {
+            "Athletics": 3
+          }
+        ],
+        "senses": "",
+        "languages": "Common",
+        "cr": "",
+        "traits": [],
+        "actions": [
+          {
+            "name": "Lever Action Firearm",
+            "desc": "Ranged Weapon Attack: +3 to hit, range 5/20 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Mercenary Jail Guard",
+      {
+        "image": null,
+        "name": "Mercenary Jail Guard",
+        "source": "CritterDB",
+        "type": "Human",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 19,
+        "hit_dice": "3d8 + 6",
+        "ac": 13,
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          15,
+          15,
+          9,
+          15,
+          11
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": 5
+          },
+          {
+            "constitution": 4
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [],
+        "senses": "",
+        "languages": "Common",
+        "cr": "",
+        "traits": [],
+        "actions": [
+          {
+            "name": "Knockout Baton",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 3 bludgeoning damage and the target must make a DC10 Constitution saving throw or become stunned until the end of their next turn."
+          },
+          {
+            "name": "Manacles",
+            "desc": "A mercenary jail guard can try to manacle any creature within 5 feet of him. The target creature must succeed on a DC 16 Dexterity saving through or become manacled, grappled and restrained by the mercenary jail guard."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Sheriff Reardon",
+      {
+        "image": null,
+        "name": "Sheriff Reardon",
+        "source": "CritterDB",
+        "type": "Human",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 26,
+        "hit_dice": "4d8 + 8",
+        "ac": 15,
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          15,
+          15,
+          9,
+          15,
+          11
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": 5
+          },
+          {
+            "constitution": 4
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [],
+        "senses": "",
+        "languages": "Common",
+        "cr": "",
+        "traits": [],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "After Sheriff Reardon makes a longsword attack or uses his Manacle action, he uses his Command action."
+          },
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 slashing damage."
+          },
+          {
+            "name": "Manacles",
+            "desc": "Sheriff Reardon can try to manacle any creature within 5 feet of him. The target creature must succeed on a DC 22 Dexterity saving through or become manacled, grappled and restrained by Sheriff Reardon"
+          },
+          {
+            "name": "Command",
+            "desc": "Sheriff Reardon commands one mercenary within 30 feet. The chosen mercenary uses their reaction to use any one of their actions."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Van Patten Conductor",
+      {
+        "image": null,
+        "name": "Van Patten Conductor",
+        "source": "CritterDB",
+        "type": "Half-Orc",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Neutral",
+        "hp": 19,
+        "hit_dice": "3d8 + 6",
+        "ac": 13,
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          15,
+          15,
+          9,
+          11,
+          11
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": 5
+          },
+          {
+            "constitution": 4
+          },
+          {
+            "wisdom": 2
+          }
+        ],
+        "skillsaves": [],
+        "senses": "Darkvision 60ft.",
+        "languages": "Common, Orc",
+        "cr": "",
+        "traits": [],
+        "actions": [
+          {
+            "name": "Wrench",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 bludgeoning damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Wandering Spirit",
+      {
+        "image": null,
+        "name": "Wandering Spirit",
+        "source": "CritterDB",
+        "type": "Undead",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Neutral Evil",
+        "hp": 15,
+        "hit_dice": "2d8 + 6",
+        "ac": 13,
+        "speed": "0 ft. fly 50 ft. (hover)",
+        "stats": [
+          6,
+          16,
+          16,
+          12,
+          14,
+          15
+        ],
+        "damage_immunities": "necrotic; poison",
+        "damage_resistances": "acid, cold, fire, lightning, thunder",
+        "damage_vulnerabilities": "radiant",
+        "condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 60ft.",
+        "languages": "the languages it knew in life",
+        "cr": 0.125,
+        "traits": [
+          {
+            "name": "Incorporeal Movement",
+            "desc": "The wandering spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+          },
+          {
+            "name": "Sunlight Sensitivity",
+            "desc": "While in sunlight, the wandering spirit has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Consuming Touch",
+            "desc": " Melee Weapon Attack : +4 to hit, reach 5ft., one target. Hit: 3 necrotic damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Mire-Cursed Aemily Lothbrook",
+      {
+        "image": null,
+        "name": "Mire-Cursed Aemily Lothbrook",
+        "source": "CritterDB",
+        "type": "Undead",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Neutral Evil",
+        "hp": 45,
+        "hit_dice": "6d8 + 18",
+        "ac": 14,
+        "speed": "30 ft.",
+        "stats": [
+          15,
+          16,
+          16,
+          9,
+          13,
+          6
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "necrotic, poison",
+        "damage_vulnerabilities": "radiant",
+        "condition_immunities": "exhaustion",
+        "saves": [],
+        "skillsaves": [
+          {
+            "Perception": 3
+          },
+          {
+            "Stealth": 5
+          }
+        ],
+        "senses": "darkvision 60ft.",
+        "languages": "",
+        "cr": 0.5,
+        "traits": [
+          {
+            "name": "Mire-cursed",
+            "desc": "Because of an accursed object, Aemily has been turned into an unfeeling, undead predator, preying upon any living creature that enters her grounds."
+          },
+          {
+            "name": "Shadow Stealth",
+            "desc": "While in dim light or darkness, Aemily can take the Hide action as a bonus action."
+          },
+          {
+            "name": "Sunlight Weakness",
+            "desc": "While in sunlight, Aemily has disadvantage on attack rolls, ability checks, and saving throws."
+          },
+          {
+            "name": "Turn Resistance",
+            "desc": "Aemily has advantage on saving throws against any effect that turns undead."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Aemily makes two claw or bite attacks."
+          },
+          {
+            "name": "Claw",
+            "desc": " Melee Weapon Attack : +4 to hit, reach 10 ft., one target. Hit: 6 slashing damage."
+          },
+          {
+            "name": "Bite",
+            "desc": " Melee Weapon Attack : +4 to hit, reach 5 ft., one target. Hit: 7 piercing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [
+          {
+            "name": "Channel Negative Energy",
+            "desc": "Aemily magically unleashes negative energy. Creatures within 60 feet of Aemily, including ones behind barriers and around corners, can't regain hit points until the end of Aemily's next turn."
+          }
+        ]
+      }
+    ],
+    [
+      "Marie Anchester",
+      {
+        "image": null,
+        "name": "Marie Anchester",
+        "source": "CritterDB",
+        "type": "Human",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Neutral",
+        "hp": 33,
+        "hit_dice": "6d8 + 6",
+        "ac": 15,
+        "speed": "30 ft.",
+        "stats": [
+          11,
+          14,
+          12,
+          10,
+          13,
+          14
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [
+          {
+            "Deception": 4
+          },
+          {
+            "Persuasion": 4
+          }
+        ],
+        "senses": "",
+        "languages": "Common",
+        "cr": 0.25,
+        "traits": [
+          {
+            "name": "Dark Devotion",
+            "desc": "Marie Anchester has advantage on saving throws against being charmed or frightened."
+          },
+          {
+            "name": "Undead Fortitude",
+            "desc": "If damage reduces Marie Anchester to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Marie Anchester drops to 1 hit point instead."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Marie Anchester makes one Dagger and one Life Drain attack."
+          },
+          {
+            "name": "Dagger",
+            "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6+1) piercing damage."
+          },
+          {
+            "name": "Life Drain (Undead Only)",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 1d4 nectrotic damage. The target must succeed on a DC 10 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target completes a long rest. The target dies if this effect reduces its hit point maximum to 0."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Thatticus Shorn",
+      {
+        "image": null,
+        "name": "Thatticus Shorn",
+        "source": "CritterDB",
+        "type": "Undead",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Chaotic Evil",
+        "hp": 82,
+        "hit_dice": "11d8 + 33",
+        "ac": 14,
+        "speed": "30 ft.",
+        "stats": [
+          14,
+          12,
+          16,
+          18,
+          14,
+          14
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "intelligence": 6
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 6
+          },
+          {
+            "Deception": 4
+          },
+          {
+            "Perception": 4
+          }
+        ],
+        "senses": "darkvision 60ft.",
+        "languages": "Common, Elvish",
+        "cr": 3,
+        "traits": [],
+        "actions": [
+          {
+            "name": "Dagger",
+            "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) slashing damage"
+          },
+          {
+            "name": "Decaying Grasp",
+            "desc": "Ranged Spell Attack: +8 to hit, range 120 ft. or range 20/60 ft., one target. Hit: 9 (2d8 + 2) necrotic damage"
+          },
+          {
+            "name": "Gashing Necrosis (Recharge 6)",
+            "desc": "Ranged Spell Attack: +8 to hit, range 120 ft. or range 20/60 ft., one target. Hit: 16 (3d10) necrotic damage"
+          },
+          {
+            "name": "Soul Siphon (Recharge 5-6)",
+            "desc": "Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (3d6) necrotic damage and Thatticus heals 7 (2d6) hit points."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "Thatticus casts one of the following spells, requiring no material components and using intelligence as his spellcasting ability (spell save DC 16):\nAt will:  animate dead "
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [
+          {
+            "name": "Frightening Gaze",
+            "desc": "Thatticus fixes his gaze on one creature he can see within 10 feet of himself. The target must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immnune to Thatticus's gaze for the next 24 hours."
+          }
+        ]
+      }
+    ]
+  ],
+  "defaultLayouts": {
+    "basic-5e-layout": {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "8b894b4b398b",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "4ae97928dba8",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "fb4818bb384a",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "3b7b3a68796a",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "282b8bfb7a6a",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "29399be999bb",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "b9c8683b4bd9",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "fa09199ab86a",
+                  "properties": [
+                    "size",
+                    "type",
+                    "subtype",
+                    "alignment"
+                  ],
+                  "conditioned": true,
+                  "separator": ", "
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "a96a681bab98",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "fad91b0879aa",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "99f8eacbe918",
+              "properties": [
+                "ac"
+              ],
+              "display": "Armor Class",
+              "conditioned": true,
+              "callback": "const ac = [monster.ac];if (\"ac_class\" in monster) {ac.push(`(${monster.ac_class})`);}return ac.join(\" \");"
+            },
+            {
+              "type": "property",
+              "id": "3b8a6a5bfb38",
+              "properties": [
+                "hp"
+              ],
+              "display": "Hit Points",
+              "dice": true,
+              "diceProperty": "hit_dice",
+              "diceCallback": "if (\"hit_dice\" in monster) {\n  return [{ text: monster[\"hit_dice\"] }];\n} else {\n  return property;\n}",
+              "callback": "let str = [monster.hp];\nif (monster.hit_dice?.length) {\n  str.push(`(${monster.hit_dice})`);\n}\nreturn str.join(\" \");",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "d808c899eaba",
+              "display": "Speed",
+              "properties": [
+                "speed"
+              ],
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "fae8ab0a4abb",
+          "properties": [
+            "stats"
+          ],
+          "headers": [
+            "Str",
+            "Dex",
+            "Con",
+            "Int",
+            "Wis",
+            "Cha"
+          ],
+          "calculate": true,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "1a29487988d9",
+          "properties": [
+            "fage_stats"
+          ],
+          "headers": [
+            "Accuracy",
+            "Communication",
+            "Constitution",
+            "Dexterity",
+            "Fighting",
+            "Intelligence",
+            "Perception",
+            "Strength",
+            "Willpower"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "3b095b293b8b",
+          "properties": [
+            "saves",
+            "skillsaves",
+            "damage_immunities",
+            "damage_resistances",
+            "damage_vulnerabilities",
+            "condition_immunities",
+            "cr",
+            "languages",
+            "senses"
+          ],
+          "nested": [
+            {
+              "type": "saves",
+              "id": "29d9aa48c9c8",
+              "display": "Saves",
+              "properties": [
+                "saves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "saves",
+              "id": "b8ebe82bf99b",
+              "display": "Skills",
+              "properties": [
+                "skillsaves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "7b8b6939e8bb",
+              "display": "Damage Resistances",
+              "properties": [
+                "damage_resistances"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ea7bd97bb9eb",
+              "display": "Damage Immunities",
+              "properties": [
+                "damage_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "1a886b1b385a",
+              "display": "Condition Immunities",
+              "properties": [
+                "condition_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "2aba29abeba8",
+              "display": "Damage Vulnerabilities",
+              "properties": [
+                "damage_vulnerabilities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "e808ea785859",
+              "display": "Senses",
+              "properties": [
+                "senses"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "1b5aaa39f969",
+              "display": "Languages",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "inline",
+              "id": "4a28c9b9ab58",
+              "properties": [],
+              "conditioned": true,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "8ba8f9ab6bfb",
+                  "display": "Challenge",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 10\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};                        \nif (\"cr\" in monster && monster.cr in CR) {\n    return `${CR[\n        monster.cr\n    ].cr} (${CR[\n        monster.cr\n    ].xp.toLocaleString()} XP)`;\n}\nreturn \"\";"
+                },
+                {
+                  "type": "property",
+                  "id": "8b7bfa5a89d9",
+                  "display": "Proficiency Bonus",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 0\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};           \nif (\"cr\" in monster && monster.cr in CR) {\n    return `+${Math.max(\n            Math.floor(2 + ((CR[monster.cr]?.value ?? 0) - 1) / 4),\n            2\n        )}`;\n}\nreturn \"\";"
+                }
+              ]
+            }
+          ],
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "b9691abbdb08",
+          "properties": [
+            "traits"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "spells",
+          "id": "cb9bea49a929",
+          "properties": [
+            "spells"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "text",
+          "id": "58d9388aaa0a",
+          "properties": [
+            "spellsNotes"
+          ],
+          "conditioned": true,
+          "text": null
+        },
+        {
+          "type": "traits",
+          "id": "3829fb5a09aa",
+          "properties": [
+            "actions"
+          ],
+          "heading": "Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "8abbdac83ac9",
+          "properties": [
+            "bonus_actions"
+          ],
+          "heading": "Bonus Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "group",
+          "id": "7b88bb09995b",
+          "properties": [
+            "legendary_description",
+            "legendary_actions"
+          ],
+          "heading": "Legendary Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "c9cbb9091a28",
+              "properties": [
+                "legendary_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "0adba9282aaa",
+              "properties": [
+                "legendary_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "cbea1a3a387a",
+          "properties": [
+            "mythic_description",
+            "mythic_actions"
+          ],
+          "heading": "Mythic Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "68ebca9a9bcb",
+              "properties": [
+                "mythic_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "4858e9297a6a",
+              "properties": [
+                "mythic_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "892b5a7b6bea",
+          "properties": [
+            "reactions"
+          ],
+          "heading": "Reactions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "8958498b6b9a",
+          "properties": [
+            "lair_actions"
+          ],
+          "heading": "Lair Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "f8493bbbeae8",
+          "properties": [
+            "regional_effects"
+          ],
+          "heading": "Regional Effects",
+          "conditioned": true,
+          "dice": true
+        }
+      ],
+      "id": "basic-5e-layout",
+      "name": "Basic 5e Layout",
+      "edited": true,
+      "version": 9,
+      "cssProperties": {
+        "contentFontSize": "14px"
+      }
+    }
+  },
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": false,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 8,
+    "patch": 1
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": false,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}
