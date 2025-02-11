@@ -31,7 +31,6 @@ function formatSub(location, affinity) {
 const result = await MF.openForm('NPC');
 const affinity = result.Affinity.value;
 const gender = result.Gender.value;
-const job = result.Job.value;
 const location = result.Location.value;
 const name = result.Name.value;
 const race = result.Race.value;
@@ -67,10 +66,8 @@ ___
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasBriefcase: Job |  <% job ? job : '' %> |
 > | :FasVenusMars: Gender | <% gender ? gender : '' %> |
 > | :FasUser: Race | <% race ? race : '' %> |
-> | :FasClock: Age | ? |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -107,7 +104,3 @@ Description
 
 ### Secrets
 - None
-
-### Statblock
->```statblock
-name: <% name %>

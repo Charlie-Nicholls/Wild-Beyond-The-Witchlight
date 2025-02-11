@@ -32,5 +32,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "obsidian-git:switch-branch": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
   ]
 }

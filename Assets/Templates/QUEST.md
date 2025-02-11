@@ -1,20 +1,5 @@
 <%*
 // ###########################################################
-//                       Helper Functions
-// ###########################################################
-
-// Format sub heading
-function formatSub(status, npc) {
-  return [
-    `:FasCircleExclamation: Quest`,
-    status && `:FasListCheck: ${status}`,
-    npc && `:FasUser: [[${npc}#${npc}]]`
-  ]
-  .filter(sub => sub)
-  .join('&nbsp;&nbsp;|&nbsp;&nbsp;');
-}
-
-// ###########################################################
 //                        Main Code Section
 // ###########################################################
 
@@ -25,7 +10,6 @@ const status = result.Status.value;
 const location = result.Location.value;
 const npc = result.Assignor.value;
 const target = result.Assignee.value;
-const sub = formatSub(status, npc);
 
 if (result.status === 'ok') {
 
@@ -48,16 +32,25 @@ target: <% target === "[ Group Quest ]" ? '"[[The Party]]"' : target ? `"[[${tar
 locations:
  - <% location ? `"[[${location}]]"` : ''  %>
 displayLink: "[[<% name %>]]"
+status: <% status %>
 ---
 ###### <% name %>
-<span class="sub2"><% sub ? sub : '' %></span>
-___
+<span class="sub2"> :FasCircleExclamation: Quest | :FasListCheck: `=this.status` | :FasUser: [[<% npc %>]] </span>
+---
+
+> [!column|flex 3]
+>>[!note]- HISTORY
+>>```dataview
+>>LIST WITHOUT ID displayLink
+>>FROM "Session Notes" AND [[#]]
+
+---
 
 ### Description
 Quest description here...
 
 ### Quest Giver
-[[Character]] or [[Organisation]]
+[[<% npc %>]]
 
 ### Objectives
  - [ ] Objective
@@ -65,15 +58,7 @@ Quest description here...
 ### Stages
  - [ ] Stage 1
 
-### Obstacles
- - Obstacle
+### Index
+ - [[#]]
 
 ### Plan
-
-
-___
-> [!column|flex 3]
->>[!note]- HISTORY
->>```dataview
->>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[#]]

@@ -29,7 +29,7 @@ function getIcon(type) {
 const dv = app.plugins.plugins.dataview.api;
 function getPath(location) {
     const match = dv.pages('"Compendium/Atlas"')
-        .where(p => (p.type === "continent" || p.type === "ocean") && p.file.name === location)
+        .where(p => p.file.name === location)
         .map(obj => obj.file.path.split('/').slice(2, -1).join('/'))
         .find(Boolean);
 

@@ -49,16 +49,6 @@
           }
         },
         {
-          "name": "Job",
-          "label": "Job:",
-          "description": "",
-          "isRequired": false,
-          "input": {
-            "type": "dataview",
-            "query": "['Archetype','Bartender','Blacksmith','Chef','Cleric','Farmer','Guard','Innkeeper','Librarian','Merchant','Miner','Noble','Priest','Scholar','Scribe','Performer','Thief','Town Crier','Trapper']"
-          }
-        },
-        {
           "name": "Location",
           "label": "Location:",
           "description": "",
@@ -66,16 +56,6 @@
           "input": {
             "type": "dataview",
             "query": "dv.pages('\"Compendium/Atlas\"').file.name"
-          }
-        },
-        {
-          "name": "Age",
-          "label": "Age:",
-          "description": "",
-          "isRequired": false,
-          "input": {
-            "type": "number",
-            "hidden": false
           }
         }
       ],
@@ -515,7 +495,7 @@
           "isRequired": false,
           "input": {
             "type": "dataview",
-            "query": "dv.pages('\"Compendium/NPC\\'s\"').file.name"
+            "query": "dv.pages('\"Compendium/NPCs\"').file.name"
           }
         },
         {
