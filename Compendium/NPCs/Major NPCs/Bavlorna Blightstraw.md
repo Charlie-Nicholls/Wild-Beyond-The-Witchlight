@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Bavlorna Blightstraw]]"
 ---
 ###### Bavlorna Blightstraw
-<span class="sub2">:FasMapLocationDot: [[Downfall#Downfall]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>
+<span class="sub2">:FasMapLocationDot: [[Downfall] | :FasHeartPulse: Neutral </span>
 ___
 
 > [!infobox|no-t right]

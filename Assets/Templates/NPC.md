@@ -15,11 +15,11 @@ function toCamelCase(str) {
 // Format sub heading
 function formatSub(location, affinity) {
   return [
-    location && `:FasMapLocationDot: [[${location}#${location}]]`,
+    location && `:FasMapLocationDot: [[${location}]]`,
     affinity && `:FasHeartPulse: ${affinity}`
   ]
   .filter(sub => sub)
-  .join('&nbsp;&nbsp;|&nbsp;&nbsp;');
+  .join(' | ');
 }
 
 

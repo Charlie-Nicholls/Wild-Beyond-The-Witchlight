@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasUser",
       "RiThreadsLine",
       "FasTree",
       "FasMountain",
@@ -14,8 +15,7 @@
       "FasRoad",
       "LiMap",
       "FasMap",
-      "🖼",
-      "FasCircleExclamation"
+      "🖼"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -104,5 +104,6 @@
   "Compendium/Atlas/Feywild/Prismeer/Hither/Slanty Tower": "FasTowerObservation",
   "Compendium/Atlas/Feywild/Prismeer/Hither/Telemy Hill": "FasMountain",
   "Compendium/Atlas/Feywild/Prismeer/Thither/Loomlurch": "FasTree",
-  "Compendium/Atlas/Feywild/Prismeer/Thither/Nib's Cave": "RiThreadsLine"
+  "Compendium/Atlas/Feywild/Prismeer/Thither/Nib's Cave": "RiThreadsLine",
+  "Compendium/NPCs/Major NPCs/Endelyn Moonshade.md": "FasUser"
 }
