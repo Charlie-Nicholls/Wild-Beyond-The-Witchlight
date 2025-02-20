@@ -3,15 +3,15 @@
   "global-search": true,
   "switcher": false,
   "graph": true,
-  "backlink": true,
-  "outgoing-link": true,
-  "tag-pane": true,
+  "backlink": false,
+  "outgoing-link": false,
+  "tag-pane": false,
   "page-preview": true,
   "daily-notes": false,
   "templates": true,
   "note-composer": false,
   "command-palette": true,
-  "slash-command": false,
+  "slash-command": true,
   "editor-status": false,
   "starred": false,
   "markdown-importer": false,
@@ -28,5 +28,5 @@
   "canvas": false,
   "bookmarks": false,
   "properties": false,
-  "webviewer": false
+  "webviewer": true
 }
