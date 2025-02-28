@@ -1,6 +1,6 @@
 ---
 type: pc
-displayLink: "[[Sarvitash]]"
+displayLink: "[[Sarvithash]]"
 level: 1
 ac: 10
 hp: 10
@@ -8,11 +8,11 @@ modifier: 0
 race: "?"
 class: "?"
 subClass: "?"
-player: "Sebastian Ruiz"
-cover: "/Assets/Images/Portrait.jpg"
+player: Sebastian Ruiz
+cover: /Assets/Images/Portrait.jpg
 ---
 
-###### Sarvitash
+###### Sarvithash
 <span class="sub2"> :FasPerson: Player Character | `=this.player` </span>
 ___
 > [!infobox|no-t right]
