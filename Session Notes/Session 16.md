@@ -24,13 +24,16 @@ ___
 >> - [[Ruach]]
 > 
 >> [!info|flex]- NPCS:
->> - [[Characters]]
+>> - [[Skabatha Nightshade]]
+>> - [[Cradlefall]]
+>> - [[Chucklehead]]
+>> - [[Miska]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> - [[Loomlurch]]
 >
 >> [!important|flex]- QUESTS:
->> - [[Quests]]
+>> - [[Loomlurch Heist]]
 
 ---
 

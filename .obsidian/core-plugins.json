@@ -5,13 +5,13 @@
   "graph": true,
   "backlink": false,
   "outgoing-link": false,
-  "tag-pane": false,
+  "tag-pane": true,
   "page-preview": true,
   "daily-notes": false,
   "templates": true,
   "note-composer": false,
   "command-palette": true,
-  "slash-command": true,
+  "slash-command": false,
   "editor-status": false,
   "starred": false,
   "markdown-importer": false,
@@ -28,5 +28,5 @@
   "canvas": false,
   "bookmarks": false,
   "properties": false,
-  "webviewer": true
+  "webviewer": false
 }

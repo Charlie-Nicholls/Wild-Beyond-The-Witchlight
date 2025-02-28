@@ -7,7 +7,8 @@ displayLink: "[[Loomlurch Heist]]"
 status: Ongoing
 ---
 ###### Loomlurch Heist
-<span class="sub2"> :FasCircleExclamation: Quest | :FasListCheck: `=this.status` | :FasUser: [[Bavlorna Blightstraw]] </span>
+<span class="sub2"> :FasCircleExclamation: Quest | :FasListCheck: `=this.status` | :FasUser: [[Bavlorna Blightstraw]]</span>
+
 ---
 
 > [!column|flex 3]
