@@ -4,7 +4,7 @@ number: 13
 date: 2024-11-01
 locations:
  - 
-alias: "TBD"
+alias: "The Cave of Golden Thread"
 displayLink: "[[Session 13|Session 13:  TBD]]"
 ---
 

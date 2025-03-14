@@ -1,23 +1,20 @@
 ---
 type: npc
 locations:
-  - "[[Loomlurch]]"
-displayLink: "[[Skabatha Nightshade]]"
-aliases:
-  - Scabatha
-  - Granny Nightshade
+ - "[[Loomlurch]]"
+displayLink: "[[Chucklehead]]"
 ---
-###### Skabatha Nightshade
-<span class="sub2">:FasMapLocationDot: [[Loomlurch]] | :FasHeartPulse: Hostile </span>
+###### Chucklehead
+<span class="sub2">:FasMapLocationDot: [[Loomlurch]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]
-> ![[imgSkabathaNightshade.webp|350]]
+> ![[portrait.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasVenusMars: Gender | Female |
-> | :FasUser: Race | Hag |
+> | :FasVenusMars: Gender | Male |
+> | :FasUser: Race | Fey |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -44,7 +41,7 @@ Description
 - List of Motivations
 
 ### Magic Items / Abilities
-- None
+- Unknown
 
 ### Allies
 - [[Characters]] or [[Organisations]]
@@ -53,4 +50,4 @@ Description
 - [[Characters]] or [[Organisations]]
 
 ### Appearances
-- None
+- 

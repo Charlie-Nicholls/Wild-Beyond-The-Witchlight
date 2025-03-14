@@ -1,23 +1,20 @@
 ---
 type: npc
 locations:
-  - "[[Loomlurch]]"
-displayLink: "[[Skabatha Nightshade]]"
-aliases:
-  - Scabatha
-  - Granny Nightshade
+ - "[[Loomlurch]]"
+displayLink: "[[Cradlefall]]"
 ---
-###### Skabatha Nightshade
-<span class="sub2">:FasMapLocationDot: [[Loomlurch]] | :FasHeartPulse: Hostile </span>
+###### Cradlefall
+<span class="sub2">:FasMapLocationDot: [[Loomlurch]] | :FasHeartPulse: Dead </span>
 ___
 
 > [!infobox|no-t right]
-> ![[imgSkabathaNightshade.webp|350]]
+> ![[imgCradlefall.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
-> | :FasVenusMars: Gender | Female |
-> | :FasUser: Race | Hag |
+> | :FasVenusMars: Gender | Male |
+> | :FasUser: Race | Green Dragon Wrymling |
 >
 >> [!info]- STORYLINES
 >>```dataview
@@ -34,11 +31,11 @@ ___
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	The pet green dragon wrymling of Scabatha Nightshade
 >^IntroText
 
 ### Description
-Description
+The pet green dragon wrymling of Scabatha Nightshade. Killed in [[Session 18]].
 
 ### Motivations
 - List of Motivations
@@ -47,10 +44,9 @@ Description
 - None
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- [[Skabatha Nightshade]]
 
 ### Enemies
 - [[Characters]] or [[Organisations]]
 
 ### Appearances
-- None

@@ -4,7 +4,7 @@ number: 15
 date: 2024-12-13
 locations:
  - 
-alias: "TBD"
+alias: "Scabatha Gets Wound Up"
 displayLink: "[[Session 15|Session 15:  TBD]]"
 ---
 

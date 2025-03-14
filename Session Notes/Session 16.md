@@ -27,7 +27,7 @@ ___
 >> - [[Skabatha Nightshade]]
 >> - [[Cradlefall]]
 >> - [[Chucklehead]]
->> - [[Miska]]
+>> - [[Mishka]]
 >
 >> [!example|flex]- LOCATIONS:
 >> - [[Loomlurch]]

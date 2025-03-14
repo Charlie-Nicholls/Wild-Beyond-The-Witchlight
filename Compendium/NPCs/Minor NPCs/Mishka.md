@@ -1,23 +1,20 @@
 ---
 type: npc
 locations:
-  - "[[Loomlurch]]"
-displayLink: "[[Skabatha Nightshade]]"
-aliases:
-  - Scabatha
-  - Granny Nightshade
+ - "[[Thither]]"
+displayLink: "[[Mishka]]"
 ---
-###### Skabatha Nightshade
-<span class="sub2">:FasMapLocationDot: [[Loomlurch]] | :FasHeartPulse: Hostile </span>
+###### Mishka
+<span class="sub2">:FasMapLocationDot: [[Thither]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]
-> ![[imgSkabathaNightshade.webp|350]]
+> ![[portrait.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |
-> | :FasUser: Race | Hag |
+> | :FasUser: Race | Human |
 >
 >> [!info]- STORYLINES
 >>```dataview

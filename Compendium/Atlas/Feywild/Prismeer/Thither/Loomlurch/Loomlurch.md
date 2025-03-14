@@ -37,7 +37,7 @@ Connects Tower One with Tower Two. One side room has the [[Pig Mask Girl]] impri
 Bottom floor contains 5 portraits, of the three members of the [[Hourglass Coven]], [[]] and [[]]. Upper floor has two more guards.
 
 ### Kitchen
-[[Skabatha Nightshade|Scabatha]]'s pet dragon hangs out here, [[Miska]] is cleaning and a cell in the floor contains an unknown person.
+[[Skabatha Nightshade|Scabatha]]'s pet dragon hangs out here, [[Mishka]] is cleaning and a cell in the floor contains an unknown person.
 
 ### Tower Three
 Bottom floor is [[Skabatha Nightshade|Scabatha]]'s Study and the upper floor contains her bed, dollshouse, crib and moth jar.

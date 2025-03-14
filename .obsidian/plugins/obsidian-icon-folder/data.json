@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPerson",
+      "FasDragon",
+      "FasUsers",
       "LiNotepadText",
       "LiCandy",
       "🍫",
       "LiFiles",
       "FasImage",
       "RiFileUserFill",
-      "FasBookAtlas",
-      "LiNotebookPen",
-      "FasIndent",
-      "LiIndent"
+      "FasBookAtlas"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -107,5 +107,8 @@
   "Compendium/Atlas/Feywild/Prismeer/Thither/Nib's Cave": "RiThreadsLine",
   "Compendium/NPCs/Major NPCs/Endelyn Moonshade.md": "FasUser",
   "Session Notes/Session 17.md": "LiNotepadText",
-  "Session Notes/Session 18.md": "LiNotepadText"
+  "Session Notes/Session 18.md": "LiNotepadText",
+  "Compendium/NPCs/Minor NPCs/Cradlefall.md": "FasDragon",
+  "Compendium/NPCs/Minor NPCs/Mishka.md": "FasPerson",
+  "Compendium/NPCs/Minor NPCs/Chucklehead.md": "FasPerson"
 }

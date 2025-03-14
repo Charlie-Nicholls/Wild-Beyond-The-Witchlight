@@ -94,7 +94,7 @@ Description
 - List of Motivations
 
 ### Magic Items / Abilities
-- None
+- Unknown
 
 ### Allies
 - [[Characters]] or [[Organisations]]
@@ -102,5 +102,5 @@ Description
 ### Enemies
 - [[Characters]] or [[Organisations]]
 
-### Secrets
-- None
+### Appearances
+- 
