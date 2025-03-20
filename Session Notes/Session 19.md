@@ -4,7 +4,7 @@ number: 19
 date: 2025-03-14
 locations:
 - "[[Thither]]"
-alias: "TBD"
+alias: "The League of Male Violence"
 displayLink: "[[Session 19|Session 19:  TBD]]"
 ---
 
@@ -25,14 +25,16 @@ ___
 > 
 >> [!info|flex]- NPCS:
 >> - [[Mishka]]
+>> - [[Will of the Feywild]]
+>> - [[Lamora]]
 >
 >> [!example|flex]- LOCATIONS:
 >> - [[Thither]]
 >> - [[Mushroom Circle]]
->> - 
+>> - [[Lamora's Island]]
 >
 >> [!important|flex]- QUESTS:
->> - [[QUEST]]
+>> - [[Loomlurch Heist]]
 
 ---
 
@@ -43,7 +45,7 @@ Plan for the session here.
 - Bird from Will leads us to a small lake-y thing. Has a small island in the middle.
 - Bad weather and thickening brush, presumably from annoying scabatha, comes, but stops at the shore of the lake.
 - If we bathe in the lake for 1 min we can lose a level of exhaustion, end a curse or attunement to a cursed item.
-- Unicord is called Lamora
+- Unicorn is called Lamora
 - 4 Pictures, 3 hourglass hags, one other hag, and Tasha, Lamora + Will identify final hag as Babayaga, mother of witches
 - Found the displacer beast kitten
 - Orc wants to kill unicorn to free, ringlerun, to steal his staff
