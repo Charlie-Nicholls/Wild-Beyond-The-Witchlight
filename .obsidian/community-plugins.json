@@ -15,5 +15,6 @@
   "global-search-and-replace",
   "obsidian-leaflet-plugin",
   "pinned-notes",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-audio-player"
 ]

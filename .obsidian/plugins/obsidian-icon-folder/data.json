@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasGem",
+      "RiZzzFill",
+      "FasHotel",
       "FasPerson",
       "FasDragon",
       "FasUsers",
       "LiNotepadText",
       "LiCandy",
       "🍫",
-      "LiFiles",
-      "FasImage",
-      "RiFileUserFill",
-      "FasBookAtlas"
+      "LiFiles"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -111,5 +111,9 @@
   "Compendium/NPCs/Minor NPCs/Cradlefall.md": "FasDragon",
   "Compendium/NPCs/Minor NPCs/Mishka.md": "FasPerson",
   "Compendium/NPCs/Minor NPCs/Chucklehead.md": "FasPerson",
-  "Session Notes/Session 19.md": "LiNotepadText"
+  "Session Notes/Session 19.md": "LiNotepadText",
+  "Compendium/Atlas/Feywild/Hotel Midsummer": "FasHotel",
+  "Compendium/Party/Quests/My Quest.md": "FasHotel",
+  "Compendium/NPCs/Moderate NPCs/The Sandman.md": "RiZzzFill",
+  "Compendium/Lore/Objects/The Gem.md": "FasGem"
 }
