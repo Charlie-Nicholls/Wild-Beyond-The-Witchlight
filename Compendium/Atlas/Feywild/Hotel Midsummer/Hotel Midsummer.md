@@ -6,7 +6,7 @@ locations:
 displayLink: "[[Hotel Midsummer]]"
 ---
 
-![[banner.jpg|banner]]
+![[imgHotelMidsummerCorridor.jpg|banner]]
 
 ---
 ###### Hotel Midsummer
