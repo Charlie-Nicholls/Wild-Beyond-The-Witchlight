@@ -10,7 +10,7 @@ displayLink: "[[Hotel Midsummer]]"
 
 ---
 ###### Hotel Midsummer
-<span class="sub2">:FasCircleQuestion: Hotel</span>
+<span class="sub2">:FasHotel: Hotel</span>
 
 ---
 
@@ -22,6 +22,10 @@ displayLink: "[[Hotel Midsummer]]"
 Hotel Midsummer was once a popular stop off for travellers in the [[Feywild]]. You would pay for a night's sleep with a dream, that [[The Sandman]] would collect as you slept. The dream would then be brought to life in your room for you to experience when you wake. In return they would keep the dream alive in that room, and you would never be able to dream it again. Hotel Midsummer requires a regular supply of new dreams to power the magic. It is said the twisting space of the hotel's interior goes on forever, and that everyone has a room ready for them.
 
 Hotel Midsummer: Turning Night Dreams Into ~~Day Dreams~~ Nightmares
+
+### Images
+
+![[imgHotelMidsummerCorridor.jpg]]
 
 ---
 
