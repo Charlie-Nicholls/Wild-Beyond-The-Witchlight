@@ -37,6 +37,10 @@ ___
 ### Description
 The patron of [[Hotel Midsummer]], once a kindly being who would take the dreams of those who sleep at his hotel. He wove the dreams into the room of the guests, allowing them to experience it when they woke and then keeping the dream alive in the room forever. Since becoming trapped in [[The Gem]], he has become desperate. Without a supply of new guests he was forced first to use nightmares to power the hotel and has now drained his guests completely, rendering them unable to sleep at all. As a reflection of the hotel, he has become increasingly nightmarish and uncaring. He now thinks he has found a way fir the hotel to escape, but needs more dreams to power the attempt and will stop at nothing to get them.
 
+```audio-player
+[[mrsandmancreepy.mp3]]
+```
+
 ### Motivations
 - Steal the dreams of any new guests
 - Escape [[The Gem]]

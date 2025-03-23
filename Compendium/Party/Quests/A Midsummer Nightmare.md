@@ -5,7 +5,7 @@ locations:
 displayLink: "[[A Midsummer Nightmare]]"
 status: Pending
 share_link: https://share.note.sx/ku95393r
-share_updated: 2025-03-23T22:48:15+00:00
+share_updated: 2025-03-23T23:04:00+00:00
 ---
 ###### A Midsummer Nightmare
 <span class="sub2"> :FasCircleExclamation: Quest | :FasListCheck: `=this.status` </span>
@@ -23,7 +23,7 @@ Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relent
 
 The Sandman chases them through the hotel. Each time they pass through a room it will be representing an amalgamation of a persons dreams and nightmares. They will have to describe how they use skill checks/spells/abilities/role play to navigate the room and keep away from The Sandman. If they fail to navigate a room properly (e.g. fail 3/5 checks required), The Sandman will catch one of them and touch them. This will send them to sleep and allow him to steal one of their dreams. Usually The Sandman can only be seen with your eyes closed, and while asleep they are able to fully see and speak to The Sandman if they wish. Have them describe a frequent dream or nightmare their character has that he steals. The Sandman will then retreat to weave the dream into the hotel, giving the players a chance to wake the sleeping player and recuperate. We then time skip to the next time he appears and repeat until they are teleported into the next room of the gem.
 
-- To signal his arrival initially before players work out they need to close their eyes to see him, play Mr Sandman as if it's echoing down the hallway (probably v2): [Version 1](https://www.youtube.com/watch?v=Oao_grQWeXY) or [Version 2](https://www.youtube.com/watch?v=tuEllCbjbVc)
+- To signal his arrival initially before players work out they need to close their eyes to see him, play Mr Sandman coming from speakers in the hallways. (Unless they're in rooms then they can't hear it) https://www.youtube.com/watch?v=tuEllCbjbVc&list=RDMMtuEllCbjbVc
 Use audio player plugin
 - The Sandman requires a certain number of dreams to power the Hotel enough to escape, totalled across the three, else the hotel will soon die out completely.
 - If anyone has a dream stolen, they, or a future group, can later find the room it is in.
@@ -47,3 +47,7 @@ Use audio player plugin
 
 **The Sandman description:**
 ![[The Sandman#^IntroText|clean collapse nlk]]
+
+```audio-player
+[[mrsandmancreepy.mp3]]
+```
