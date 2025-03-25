@@ -33,7 +33,7 @@ Use audio player plugin
 	- If they realise they can write messages to the next team then let them write whatever they want. If they don't, prompt whoever has it as they're being teleported out that they realise they can leave something for the next people to end up there. Ask them to dictate what they want to write, then roll something like 2d20 + 10 to see how many characters they can write before they're teleported out.
 
 ### Room Ideas
- - 
+ - Remember to use the interactives principle to describe rooms
 
 ### Images
 
