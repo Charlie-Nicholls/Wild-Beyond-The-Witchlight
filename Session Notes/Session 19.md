@@ -5,7 +5,7 @@ date: 2025-03-14
 locations:
 - "[[Thither]]"
 alias: "The League of Male Violence"
-displayLink: "[[Session 19|Session 19:  TBD]]"
+displayLink: "[[Session 19|Session 19:  The League of Male Violence]]"
 ---
 
 ![[session.png|banner]]

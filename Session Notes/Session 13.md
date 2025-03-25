@@ -5,7 +5,7 @@ date: 2024-11-01
 locations:
  - 
 alias: "The Cave of Golden Thread"
-displayLink: "[[Session 13|Session 13:  TBD]]"
+displayLink: "[[Session 13|Session 13:  The Cave of Golden Thread]]"
 ---
 
 ![[session.png|banner]]

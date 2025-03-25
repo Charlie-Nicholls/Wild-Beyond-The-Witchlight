@@ -8,7 +8,7 @@ modifier: 0
 race: "?"
 class: "?"
 subClass: "?"
-player: "Chris (Arran or Parry?)"
+player: "Chris Parry"
 cover: "/Assets/Images/Portrait.jpg"
 ---
 

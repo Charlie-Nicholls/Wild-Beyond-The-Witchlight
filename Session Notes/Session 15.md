@@ -5,7 +5,7 @@ date: 2024-12-13
 locations:
  - 
 alias: "Scabatha Gets Wound Up"
-displayLink: "[[Session 15|Session 15:  TBD]]"
+displayLink: "[[Session 15|Session 15:  Scabatha Gets Wound Up]]"
 ---
 
 ![[session.png|banner]]

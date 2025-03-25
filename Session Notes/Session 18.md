@@ -6,7 +6,7 @@ locations:
 - "[[Thither]]"
 - "[[Loomlurch]]"
 alias: "Death By Blackjack"
-displayLink: "[[Session 18|Session 18:  TBD]]"
+displayLink: "[[Session 18|Session 18:  Death By Blackjack]]"
 ---
 
 ![[session.png|banner]]
