@@ -70,6 +70,45 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes
 > - Hard to navigate, maps make no sense.
 > - Can do stuff like moving feeling like it's not getting you anywhere, space wrapping back on itself
 
+### Chase Mechanics
+
+> [!recite|nbrd no-i] Chase Track
+> - When a chase begins, [[The Sandman]] and the players are placed on the chase track, with the players slightly ahead. (tile 9 vs 1, target 20)
+> - The players and [[The Sandman]] then alternate turns. With the players taking 2 turns for every 1 of [[The Sandman]].
+> - The track does not only represent physical distance, but the "advantage" the players have over [[The Sandman]] in the chase, so, for example, being hidden, putting obstacles in his way or learning useful information are represented by the distance on the track but don't have a physical distance in of themselves.
+> - The players may either make a group check (use the mean) or have someone make an individual check. If a player makes an individual check, they cannot do so again until the others have made individual checks. (Can also do for example a pair check, take average, both players must wait till the other two make a pair or two individual checks before they can go again.)
+> - Refer to the Risk/Reward-Difficulty table to determine the movement that occurs during a players turn.
+> - [[The Sandman]] on his turn makes his own check and rolls on the following table:
+>> [!recite|clean no-t]
+>> | Score | 1-5 | 6-13 | 14-18 | 19-20
+>> |  :---: | :---: |  :---: |  :---: |  :---: |
+>> | **Movement** | 1 | 2 | 3 | 4 |
+
+
+
+> [!recite|nbrd no-i] Risk/Reward-Difficulty Levels
+> - Whenever a player makes some attempt to speed up their escape or slow down [[The Sandman]], judge the risk-reward level and difficulty and use the following table to determine how many shifts of movement they get. A success moves them forward and a failure moves [[The Sandman]] closer.
+> - The track does
+> - Let the players know that that there is a risk/reward-difficulty table so they can strategize how risky or hard the thing they want to do is.
+>> [!recite|clean no-t]
+>> | RR\Diff | Low | Medium | High |
+>> |  :---: | :---: |  :---: |  :---: |
+>> | **Low** | DC12 +1/-0 | - | DC18 +2/-0 |
+>> | **Medium** | DC10 +1/-1 | DC16 +2/-1 | DC18 +3/-1 |
+>> | **High** | DC14 +2/-2 | DC16 +3/-2 | DC20 +4/-3 |
+>>
+>> Avg Movement difference with this table:
+>> 
+>> | RR\Diff | Low | Medium | High |
+>> |  :---: | :---: |  :---: |  :---: |
+>> | **Low** | 0.7 | 1 | 0.81 |
+>> | **Medium** | 0.6 | 0.5 | 0.55 |
+>> | **High** | 0.4 | 0.3 | -1 |
+> - [[The Sandman]] has an AC of 16 and any attempt to attack him counts as medium difficulty on the RR/Diff table. 
+> 	- Attacking can also be considered Medium-Low (DC 16 +2/-0) if the player makes some sacrifice to make the attack, e.g. using a spell slot. This is also the default for effects that require [[The Sandman]] to make a saving throw.
+> 	- Medium-Medium is used when unsure.
+> 	- Medium-High is usually used for melee attacks that require a player to approach [[The Sandman]] to attack them.
+
 ### Images
 
 > [!info|no-i]- Hallway
@@ -78,7 +117,7 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes
 > [!info|no-i]- The Sandman
 > ![[imgTheSandman.png]]
 
-### Plan
+### The Sandman
 
 **The Sandman description:**
 ![[The Sandman#^IntroText|clean collapse nlk]]

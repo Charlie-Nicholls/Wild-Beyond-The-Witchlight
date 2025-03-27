@@ -41,6 +41,9 @@ The patron of [[Hotel Midsummer]], once a kindly being who would take the dreams
 [[mrsandmancreepy.mp3]]
 ```
 
+### Appearances
+- 
+
 ### Motivations
 - Steal the dreams of any new guests
 - Escape [[The Gem]]
@@ -50,5 +53,17 @@ The patron of [[Hotel Midsummer]], once a kindly being who would take the dreams
 - Takes dreams
 - Can only be seen by creatures with their eyes closed
 
-### Appearances
-- 
+### Statblock
+
+```statblock
+name: The Sandman
+speed: 30
+stats: [11,14,-,14,20,18]
+languages: All
+saves: [charisma: 7, dexterity: 5]
+skillsaves: [arcana: 7, insight: 8, perception: 8, stealth: 8]
+cr: 5
+traits:
+  - name: Non-corporeal
+    desc: The Sandman cannot be harmed, and can only be killed permantantly when Hotel Midsummer dies; successful attacks against The Sandman instead slow him down and he automatically suceeds any Constitution saving throw. Additionally, The Sandman is invisible to all creatures with their eyes open.
+```
