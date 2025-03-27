@@ -34,6 +34,41 @@ Use audio player plugin
 
 ### Room Ideas
  - Remember to use the interactives principle to describe rooms
+ - Some of the rooms are the leftovers of the long dead, some contain [[The Restless]], but perhaps the most horrifying are [[The Echoes]].
+	 - Try to make [[The Restless]] scary and [[The Echoes]] heart breaking
+	 - [[The Echoes]] are trapped in [[Gem Shards]], helping them move on will reveal the shards and allow the players to collect them.
+ - Two main types of rooms, chase focused and challenge focused.
+	 - Challenged focused rooms present some obstacle to exiting the room that has to be overcome, use one of these when they get away from [[The Sandman]] to justify him catching up
+	 - Chase rooms are easier to navigate but will have them being closely perused by [[The Sandman]], having to find ways to slow him down or get through quickly
+
+**Challenge Rooms**
+
+bard with stage fright, generic monster, fear of places e.g. elemental planes
+
+> [!recite|nbrd no-i] Falling
+> - Infinite falling loop
+> - Have to make it to the other side
+>
+
+> [!recite|nbrd no-i] Claustrophobia
+> - Crawl through a maze of tight spaces
+> - Then when they get to open space have walls close in, door in hard to reach location or hidden
+
+**Chase Rooms**
+
+> [!recite|nbrd no-i] Presentation
+> - Something funny like a nerdy orc's nightmare about having to give a presentation on a new axe/hunting method they came up with to a tribe of classic jocks
+> - Use one of [[The Echoes]] here. 
+> - Social skills focused
+> - Not able to leave until the presentation is finished or the door is just painted on.
+> 	- Hiding or Fitting in as people in the dream to trick [[The Sandman]]
+> 	- Or can help out [[The Echoes|The Echo]] in the room which will gain [[Gem Shards]] and allow the door to open early
+> 		- Helping can look like having them not care about the opinions of the others or convincing the others it's a great idea
+
+> [!recite|nbrd no-i] Getting Lost
+> - End up in a city, somehow knowing where they need to go to find the exit (echo or restless or just an inherent feeling from the dream?)
+> - Hard to navigate, maps make no sense.
+> - Can do stuff like moving feeling like it's not getting you anywhere, space wrapping back on itself
 
 ### Images
 
