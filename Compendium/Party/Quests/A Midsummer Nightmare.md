@@ -43,14 +43,14 @@ Use audio player plugin
 
 **Challenge Rooms**
 
-bard with stage fright, generic monster, fear of places e.g. elemental planes
+bard with stage fright, generic monster, fear of places e.g. elemental planes, monster pit e.g. scorpians
 
-> [!recite|nbrd no-i] Falling
+> [!recite|nbrd no-i] Falling (Plane of Air)
 > - Infinite falling loop
 > - Have to make it to the other side
 >
 
-> [!recite|nbrd no-i] Claustrophobia
+> [!recite|nbrd no-i] Claustrophobia (Plane of Earth)
 > - Crawl through a maze of tight spaces
 > - Then when they get to open space have walls close in, door in hard to reach location or hidden
 
@@ -69,6 +69,13 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes
 > - End up in a city, somehow knowing where they need to go to find the exit (echo or restless or just an inherent feeling from the dream?)
 > - Hard to navigate, maps make no sense.
 > - Can do stuff like moving feeling like it's not getting you anywhere, space wrapping back on itself
+
+> [!recite|nbrd no-i] Thalassophobia (Plane of Water)
+> - Dropped in the deep ocean
+
+> [!recite|nbrd no-i] (Plane of Fire)
+> - Volcanic Eruption
+
 
 ### Chase Mechanics
 
