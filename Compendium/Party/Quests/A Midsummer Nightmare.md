@@ -175,7 +175,7 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > ![[Ravine.jpg]]
 
 > [!info|no-i]- Endless Ocean
-> ![[gifOcean.gif]]
+> ![[gifOcean.mp4]]
 
 > [!info|no-i]- Lost in Camarath
 > ![[imgCamarath.jpg]]
