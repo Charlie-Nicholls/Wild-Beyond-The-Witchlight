@@ -40,7 +40,7 @@ Use audio player plugin
  - Three main types of rooms, chase, challenge and echo rooms.
 	 - Chase rooms are easier to navigate but will have them being closely perused by [[The Sandman]], having to find ways to slow him down or get through quickly
 	 - Challenged focused rooms present some obstacle to exiting the room that has to be overcome, use one of these when they get away from [[The Sandman]] to justify him catching up
-	 - Echo Rooms can be either chase or challenge rooms but contain an echo of a former guest who presents a side quest that will reward them with additional [[Gem Shards]] if they complete.
+	 - Echo Rooms can be either chase or challenge rooms but contain an echo of a former guest who presents a side quest that will reward them with an additional 9 [[Gem Shards]] if they complete.
  - If [[The Sandman]] steals any of the party's dreams, these can appear as chase or challenge rooms later
 
 **Challenge Rooms**
@@ -73,8 +73,6 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > - Can do stuff like moving feeling like it's not getting you anywhere, space wrapping back on itself
 > - City is split into 3 concentric walled sections that can mark progress
 
-
-
 **Echo Rooms**
 
 > [!recite|nbrd no-i] Fiery Voyage
@@ -91,7 +89,7 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 
 > [!recite|nbrd no-i] Zamvol's Presentation
 > - Something funny like a nerdy orc's nightmare about having to give a presentation on a new axe/hunting method they came up with to a tribe of classic jocks
-> - [[The Echoes|Echo]] of Zamvol The Spiteful
+> - [[The Echoes|Echo]] of Zamvol The Useless
 > 	- Clever but weak and shy Orc
 > 	- Has designed a new axe with magic infused that keeps it sharper and more durable
 > - Dream character of Grug The Skullsplitter, orc chieftan 
@@ -100,10 +98,6 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > 	- Hiding or Fitting in as people in the dream to trick [[The Sandman]]
 > 	- Or can help out [[The Echoes|The Echo]] in the room which will gain [[Gem Shards]] and allow the door to open early
 > 		- Helping can look like having them not care about the opinions of the others or convincing the others it's a great idea
-
-
-
-
 
 ### Chase Mechanics
 
@@ -135,23 +129,15 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 
 > [!recite|nbrd no-i] Risk/Reward-Difficulty Levels
 > - Whenever a player makes some attempt to speed up their escape or slow down [[The Sandman]], judge the risk-reward level and difficulty and use the following table to determine how many shifts of movement they get. A success moves them forward and a failure moves [[The Sandman]] closer.
-> - The track does
-> - Let the players know that that there is a risk/reward-difficulty table so they can strategize how risky or hard the thing they want to do is.
+> - Let the players know that that there is a risk/reward-difficulty table so they can strategize how risky or hard the thing they want to do is, but not what exactly the table looks like.
 >> [!recite|clean no-t]
->> | RR\Diff | Low | Medium | High |
->> |  :---: | :---: |  :---: |  :---: |
->> | **Low** | DC12 +1/-0 | - | DC18 +2/-0 |
->> | **Medium** | DC10 +1/-1 | DC16 +2/-1 | DC18 +3/-1 |
->> | **High** | DC14 +2/-2 | DC16 +3/-2 | DC20 +4/-3 |
->> **If the Chase track is taking too long to complete, instead try starting the players at position 5 instead of 9 and giving both players and The Sandman a default +1 to all movement**
->>
->> Avg Movement difference with this table:
->> 
->> | RR\Diff | Low | Medium | High |
->> |  :---: | :---: |  :---: |  :---: |
->> | **Low** | 0.7 | 1 | 0.81 |
->> | **Medium** | 0.6 | 0.5 | 0.55 |
->> | **High** | 0.4 | 0.3 | -1 |
+>> | RR\Diff | Low | Medium | High | | Low (avg) | Medium (avg) | High (avg) |
+>> |  :---: | :---: |  :---: |  :---: |  :---: | :---: | :---: |  :---: |
+>> | **Low** | DC12 +1/-0 | - | DC18 +2/-0 | | 0.7 | 1 | 0.81 |
+>> | **Medium** | DC10 +1/-1 | DC16 +2/-1 | DC18 +3/-1 | | 0.6 | 0.5 | 0.55 |
+>> | **High** | DC14 +2/-2 | DC16 +3/-2 | DC20 +4/-3 | | 0.4 | 0.3 | -1 |
+> - The Chase track can also be used over multiple rooms if they reach the natural end of a room without either escaping or being caught
+> - If the Chase track is taking too long to complete, instead try starting the players at position 5 instead of 9 and giving both players and The Sandman a default +1 to all movement. Ignoring the starting conditions this could also be adjusted mid chase by adding 1 to both movements. Since players don't see the tables being rolled on they won't know this is a change.
 > - [[The Sandman]] has an AC of 16 and any attempt to attack him counts as medium difficulty on the RR/Diff table. 
 > 	- Attacking can also be considered Medium-Low (DC 16 +2/-0) if the player makes some sacrifice to make the attack, e.g. using a spell slot. This is also the default for effects that require [[The Sandman]] to make a saving throw.
 > 	- Medium-Medium is used when unsure.
