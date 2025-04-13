@@ -17,24 +17,24 @@ At the age of 10, [[Summer Night]] ran away from home and got lost in the [[Feyw
 
 After a while she would dream of [[Hotel Midsummer]] which quickly became a popular stop off for travellers in the [[Feywild]], boasting the ability to let you live your dream. [[The Sandman]] would collect a dream as you slept and bring it to [[Summer Night|Summer]], weaving it into the dream of the hotel. It is then be brought to life in your room, ready for you to experience when you wake and allowing [[Summer Night|Summer]] to continue to sleep and live in the dreams of others. The dream is kept alive in that room forever as payment, and you would never be able to dream it again. It's said the twisting space of the hotel's interior goes on forever; that everyone has a room ready for them somewhere.
 
-But [[Summer Night|Summer]] and her [[Hotel Midsummer|Hotel]] have become trapped inside [[The Gem]], the guests within unable to leave and no new dreamers able to arrive. Over time [[The Sandman]] has become increasingly desperate to keep [[Summer Night|Summer]] dreaming. Feeding over and over again on the same guests, taking more and more dreams from them. Eventually he had no choice but to start using nightmares, this power source has steadily corrupted the hotel; turning it from a vibrant place of joy to a twisting corridor of horrors. The guests have long since run out of dreams, causing them to lose the ability to sleep. Those who die from lack of sleep can find themselves trapped in [[Gem Shards]], if any were in their room. These unfortunate souls become [[The Echoes]], forced to relive their dreams or nightmares until they can change the outcome.
+But [[Summer Night|Summer]] and her [[Hotel Midsummer|Hotel]] have become trapped inside [[The Gem]], the guests within unable to leave and no new dreamers able to arrive. Over time [[The Sandman]] has become increasingly desperate to keep [[Summer Night|Summer]] dreaming. Feeding over and over again on the same guests, taking more and more dreams from them. Eventually he had no choice but to start using nightmares, this power source has steadily corrupted the hotel; turning it from a vibrant place of joy to a twisting corridor of horrors. The guests have long since run out of dreams, causing them to lose the ability to sleep. Those who die from lack of sleep can find themselves trapped in [[The Gem#Gem Shards]], if any were in their room. These unfortunate souls become [[The Echoes]], forced to relive their dreams or nightmares until they can change the outcome.
 
-Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relentlessly by [[The Sandman]]. A creature which can only be seen when your eyes are closed, who sends to sleep any who he touches. In his time here he has learned the nature of the gem and believes they can at last escape, if only he can collect a few more [[Gem Shards]] to finish his teleportation device, before [[Summer Night|Summer]] wakes up. But, with the hotel infested with nightmares and far beyond saving, this would surely result only more people becoming ensnared, and the horrors held within escaping into the [[Feywild]]. But [[Summer Night|Summer]] is tired and scared, living in an endless nightmare. Would she even want to be saved if he could?
+Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relentlessly by [[The Sandman]]. A creature which can only be seen when your eyes are closed, who sends to sleep any who he touches. In his time here he has learned the nature of the gem and believes they can at last escape, if only he can collect a few more [[The Gem#Gem Shards]] to finish his teleportation device, before [[Summer Night|Summer]] wakes up. But, with the hotel infested with nightmares and far beyond saving, this would surely result only more people becoming ensnared, and the horrors held within escaping into the [[Feywild]]. But [[Summer Night|Summer]] is tired and scared, living in an endless nightmare. Would she even want to be saved if he could?
 
 ### Room Ideas
  - Remember to use the interactives principle to describe rooms
  - Some of the rooms are the leftovers of the long dead, some contain the [[The Echoes]].
 	 - Try to make the [[The Echoes]] heart breaking
-	 - [[The Echoes]] are trapped in [[Gem Shards]], helping them move on will reveal the shards and allow the players to collect them.
+	 - [[The Echoes]] are trapped in [[The Gem#Gem Shards]], helping them move on will reveal the shards and allow the players to collect them.
  - Three main types of rooms, chase, challenge and echo rooms.
 	 - Chase rooms are easier to navigate but will have them being closely perused by [[The Sandman]], having to find ways to slow him down or get through quickly
 	 - Challenged focused rooms present some obstacle to exiting the room that has to be overcome, use one of these when they get away from [[The Sandman]] to justify him catching up
-	 - Echo Rooms can be either chase or challenge rooms but contain an echo of a former guest who presents a side quest that will reward them with an additional 9 [[Gem Shards]] if they complete.
+	 - Echo Rooms can be either chase or challenge rooms but contain an echo of a former guest who presents a side quest that will reward them with an additional 9 [[The Gem#Gem Shards]] if they complete.
  - If [[The Sandman]] steals any of the party's dreams, these can appear as chase or challenge rooms later
 
 **Challenge Rooms**
 
-bard with stage fright, generic monster, fear of places e.g. elemental planes, monster pit e.g. scorpians
+bard with stage fright, generic monster, fear of places e.g. elemental planes, monster pit e.g. scorpions
 
 > [!recite|nbrd no-i] Bottomless Pit
 > - Infinite falling loop
@@ -56,7 +56,7 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > - Exit door at the base of a waterfall
 
 > [!recite|nbrd no-i] Lost in Camarath
-> - End up in a city, with an intense feeling like they're late and need to get to the city center
+> - End up in a city, with an intense feeling like they're late and need to get to the city centre
 > - Hard to navigate, maps make no sense.
 > - Can do stuff like moving feeling like it's not getting you anywhere, space wrapping back on itself
 > - City is split into 3 concentric walled sections that can mark progress
@@ -68,7 +68,7 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > - [[The Echoes|Echo]] of Captain Bill Ironheart (Personality of Bill Seacaster)
 > 	- This is a dream of something that happened in his past
 > 	- Unclear if it is a dream or nightmare, he clearly loves the danger but lost a lot of crew in the journey
-> 	- Saving enough of his crew will free him from being an [[The Echoes|Echo]] and reward them with [[Gem Shards]]
+> 	- Saving enough of his crew will free him from being an [[The Echoes|Echo]] and reward them with [[The Gem#Gem Shards]]
 > - Environmental challenges
 > 	- Lava geysers
 > 	- Falling rocks from volcanic islands
@@ -84,7 +84,7 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > - Social skills focused
 > - Not able to leave until the presentation is finished or the door is just painted on.
 > 	- Hiding or Fitting in as people in the dream to trick [[The Sandman]]
-> 	- Or can help out [[The Echoes|The Echo]] in the room which will gain [[Gem Shards]] and allow the door to open early
+> 	- Or can help out [[The Echoes|The Echo]] in the room which will gain [[The Gem#Gem Shards]] and allow the door to open early
 > 		- Helping can look like having them not care about the opinions of the others or convincing the others it's a great idea
 
 ### Chase Mechanics
@@ -104,8 +104,8 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 >
 >> [!recite|clean no-i] Extra D6s
 > - When rounding corners on the chase track there are two types of D6s that are rolled
-> - Between the players and the exit is are two D6 representing [[Gem Shards]], if players pass this point they can roll the D6 + 3 to determine how many [[Gem Shards]] they find.
->	- If they are caught by [[The Sandman]] before reaching this point he will instead steal the remaining [[Gem Shards]]
+> - Between the players and the exit is are two D6 representing [[The Gem#Gem Shards]], if players pass this point they can roll the D6 + 3 to determine how many [[The Gem#Gem Shards]] they find.
+>	- If they are caught by [[The Sandman]] before reaching this point he will instead steal the remaining [[The Gem#Gem Shards]]
 > - Between [[The Sandman]] and the players starting point are a further two Fate Dice that he rolls to affect the dream itself.
 >	- [[The Sandman]] takes an additional action on the following table and the players make a saving throw of the stated DC. If they can justify using another ability instead of a saving throw allow it.
 >	- [[The Sandman]] moves forward an amount equal to the number of players who failed the save.
