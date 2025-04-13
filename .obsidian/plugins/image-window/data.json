@@ -6,10 +6,18 @@
     "Second Window": {
       "hosts": {
         "Charlie-PC": {
-          "x": -8,
+          "x": 1912,
           "y": -8,
           "width": 1936,
           "height": 1048,
+          "fullscreen": false,
+          "maximized": true
+        },
+        "UOY22Y466": {
+          "x": -6,
+          "y": -6,
+          "width": 1292,
+          "height": 684,
           "fullscreen": false,
           "maximized": true
         }

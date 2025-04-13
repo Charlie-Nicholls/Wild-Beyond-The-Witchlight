@@ -13,24 +13,13 @@ share_updated: 2025-04-01T20:32:54+01:00
 ---
 
 ### Description
-[[Hotel Midsummer]] was once a popular stop off for travellers in the [[Feywild]], boasting the ability to let you live your dream. The hotel's patron, [[The Sandman]], would collect a dream as you slept, which would then be brought to life in your room, ready for you to experience when you wake. It would then be kept alive in that room forever as payment, and you would never be able to dream it again. [[Hotel Midsummer]] requires a regular supply of new dreams to keep it alive. It's said the twisting space of the hotel's interior goes on forever; that everyone has a room ready for them somewhere.
+At the age of 10, [[Summer Night]] ran away from home and got lost in the [[Feywild]]. She made a deal with a  [[Babayaga or maybe Endelyn Moonshade|hag]], who gave her the power to make her dreams a reality, but in return cursed her to die the next time she woke. Her first dream was of [[The Sandman]], a creature that would tend to her while she slept. His right hand is clenched in a fist, through which runs sand that represents how long [[Summer Night|Summer]] has before she runs out of dreams and wakes. In his left he holds a dream-catcher, which he can use on the sleeping to steal their dreams and bring them to [[Summer Night|Summer]] to give to her. 
 
-But [[Hotel Midsummer]] has become trapped inside [[The Gem]], the guests within unable to leave and no new dreamers able to arrive. Over time the hotel has become increasingly desperate to maintain itself. Feeding over and over again on the same guests, taking more and more dreams from them. Eventually it had no choice but to start using nightmares, this power source has steadily corrupted the hotel; turning it from a vibrant place of joy to a twisting corridor of horrors. The guests have long since run out of dreams, causing them to lose the ability to sleep. Those who die from lack of sleep can find themselves trapped in [[Gem Shards]] if any were in their room. These unfortunate souls become trapped as [[The Echoes]], forced to relive their dreams or nightmares until they can change the outcome.
+After a while she would dream of [[Hotel Midsummer]] which quickly became a popular stop off for travellers in the [[Feywild]], boasting the ability to let you live your dream. [[The Sandman]] would collect a dream as you slept and bring it to [[Summer Night|Summer]], weaving it into the dream of the hotel. It is then be brought to life in your room, ready for you to experience when you wake and allowing [[Summer Night|Summer]] to continue to sleep and live in the dreams of others. The dream is kept alive in that room forever as payment, and you would never be able to dream it again. It's said the twisting space of the hotel's interior goes on forever; that everyone has a room ready for them somewhere.
 
-Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relentlessly by [[The Sandman]]. A creature which can only be seen when your eyes are closed, who sends to sleep any who he touches. In his time here he has learned the nature of the gem and believes the hotel can at last escape, if only he had a few more dreams to power the attempt. But, with the hotel infested with nightmares and far beyond saving, this would surely result only more people becoming ensnared, and the horrors held within escaping into the [[Feywild]].
+But [[Summer Night|Summer]] and her [[Hotel Midsummer|Hotel]] have become trapped inside [[The Gem]], the guests within unable to leave and no new dreamers able to arrive. Over time [[The Sandman]] has become increasingly desperate to keep [[Summer Night|Summer]] dreaming. Feeding over and over again on the same guests, taking more and more dreams from them. Eventually he had no choice but to start using nightmares, this power source has steadily corrupted the hotel; turning it from a vibrant place of joy to a twisting corridor of horrors. The guests have long since run out of dreams, causing them to lose the ability to sleep. Those who die from lack of sleep can find themselves trapped in [[Gem Shards]], if any were in their room. These unfortunate souls become [[The Echoes]], forced to relive their dreams or nightmares until they can change the outcome.
 
-### Concept + Ideas
-
-The Sandman chases them through the hotel. Each time they pass through a room it will be representing an amalgamation of a persons dreams and nightmares. They will have to describe how they use skill checks/spells/abilities/role play to navigate the room and keep away from The Sandman. If they fail to navigate a room properly (e.g. fail 3/5 checks required), The Sandman will catch one of them and touch them. This will send them to sleep and allow him to steal one of their dreams. Usually The Sandman can only be seen with your eyes closed, and while asleep they are able to fully see and speak to The Sandman if they wish. Have them describe a frequent dream or nightmare their character has that he steals. The Sandman will then retreat to weave the dream into the hotel, giving the players a chance to wake the sleeping player and recuperate. We then time skip to the next time he appears and repeat until they are teleported into the next room of the gem.
-
-- To signal his arrival initially before players work out they need to close their eyes to see him, play Mr Sandman coming from speakers in the hallways. (Unless they're in rooms then they can't hear it) https://www.youtube.com/watch?v=tuEllCbjbVc&list=RDMMtuEllCbjbVc
-Use audio player plugin
-- The Sandman requires a certain number of dreams to power the Hotel enough to escape, totalled across the three, else the hotel will soon die out completely.
-- If anyone has a dream stolen, they, or a future group, can later find the room it is in.
-- Some way to get puzzle pieces, scattered around the rooms and/or from helping the restless?
-- Give them a brochure (physical prop) + pencil to allow them to write messages to the next team. 
-	- Start with it in the hand of a dead guest who's written something like "Don't let him touch you" on a section about The Sandman. 
-	- If they realise they can write messages to the next team then let them write whatever they want. If they don't, prompt whoever has it as they're being teleported out that they realise they can leave something for the next people to end up there. Ask them to dictate what they want to write, then roll something like 2d20 + 10 to see how many characters they can write before they're teleported out.
+Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relentlessly by [[The Sandman]]. A creature which can only be seen when your eyes are closed, who sends to sleep any who he touches. In his time here he has learned the nature of the gem and believes they can at last escape, if only he can collect a few more [[Gem Shards]] to finish his teleportation device, before [[Summer Night|Summer]] wakes up. But, with the hotel infested with nightmares and far beyond saving, this would surely result only more people becoming ensnared, and the horrors held within escaping into the [[Feywild]]. But [[Summer Night|Summer]] is tired and scared, living in an endless nightmare. Would she even want to be saved if he could?
 
 ### Room Ideas
  - Remember to use the interactives principle to describe rooms
@@ -50,7 +39,6 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > [!recite|nbrd no-i] Bottomless Pit
 > - Infinite falling loop
 > - Have to make it to the other side
->
 
 > [!recite|nbrd no-i] Claustrophobia and Caving
 > - Crawl through a maze of tight spaces
@@ -161,7 +149,7 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > ![[imgRavine.jpg]]
 
 > [!info|no-i]- Endless Ocean
-> ![[gifOcean.gif]]
+> ![[gifOcean.mp4]]
 
 > [!info|no-i]- Lost in Camarath
 > ![[imgCamarath.jpg]]
@@ -178,11 +166,28 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > [!info|no-i]- TBD
 > ![[]]
 
+> [!info|no-i]- Chase Track Rules
+> ![[Chase track Rules.png]]
+
 ### The Sandman
 
 **The Sandman description:**
 ![[The Sandman#^IntroText|clean collapse nlk]]
 
+When [[The Sandman]] first appears play the following sound clip. Slowing increasing the volume until the players notice.
+
 ```audio-player
 [[mrsandmancreepy.mp3]]
 ```
+
+### Start
+
+The first room they enter is a lavish bed room with an enormous oversized bed at its centre. In the middle of the bed is the body of an orc. If they get close enough they can see he is holding brochure with "DON'T LET HIM TOUCH YOU" scrawled across it and that he shows signs of exhaustion, but no wounds. At this point they hear a scuffle from beneath the bed. Read:
+
+> [!recite|clean no-t]
+>	You hear a muffled scuffling sound coming from beneath you. It's probably nothing dangerous, but you realise you forgot something. You see, there are two types of people who check underneath the bed before they go to sleep. Children, because they're naive enough to think there might be monsters under the bed, and adventurers, because they're experienced enough to know that there might be monsters under the bed. You forgot to check under the bed.
+>^StartMonster
+
+Looking under the bed will reveal an unnatural level of darkness. At this point start [[The Sandman]] music. [[Summer Night]] is under the bed, and a high perception check will let them see her and she will ask for their help before an invisible monster grabs her and drags her further under the bed and she leaves the dream room. If they insist on trying to follow her, a door leading to a room of my choice can be found under the bed.
+
+### End
