@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Waterdeep]]"
 ---
 
-![[waterdeep.jpg|banner]]
+![[imgWaterdeep.jpg|banner]]
 ###### Waterdeep
 <span class="sub2">:FasCity: City</span>
 

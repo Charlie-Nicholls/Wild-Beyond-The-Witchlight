@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Western Heartlands]]"
 ---
 
-![[westernHeartlands.jpg|banner]]
+![[imgWesternHeartlands.jpg|banner]]
 ###### Western Heartlands
 <span class="sub2">:FasMap: General Region</span>
 

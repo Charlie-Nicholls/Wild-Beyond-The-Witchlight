@@ -158,7 +158,7 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > ![[imgCave.webp]]
 
 > [!info|no-i]- Ravine of Monsters
-> ![[Ravine.jpg]]
+> ![[imgRavine.jpg]]
 
 > [!info|no-i]- Endless Ocean
 > ![[gifOcean.gif]]

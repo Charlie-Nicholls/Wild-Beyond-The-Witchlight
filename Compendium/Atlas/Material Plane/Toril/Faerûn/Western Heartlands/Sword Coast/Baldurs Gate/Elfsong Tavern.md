@@ -6,7 +6,7 @@ locations:
 displayLink: "[[Elfsong Tavern]]"
 ---
 
-![[elfsong.jpg|banner]]
+![[imgElfsong.jpg|banner]]
 ###### Elfsong Tavern
 <span class="sub2">:RiBeerLine: Tavern</span>
 ___

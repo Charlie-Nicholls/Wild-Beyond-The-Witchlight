@@ -6,7 +6,7 @@ locations:
 displayLink: "[[Sorcerous Sundries]]"
 ---
 
-![[sorcSundries.jpg|banner]]
+![[imgSorcSundries.jpg|banner]]
 ###### Sorcerous Sundries
 <span class="sub2">:FasCartShopping: Shop</span>
 ___

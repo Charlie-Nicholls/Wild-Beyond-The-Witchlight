@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Faerûn]]"
 ---
 
-![[Faerûn.jpg|banner]]
+![[imgFaerûn.jpg|banner]]
 ###### Faerûn
 <span class="sub2">:FasEarthAmericas: Continent</span>
 ___

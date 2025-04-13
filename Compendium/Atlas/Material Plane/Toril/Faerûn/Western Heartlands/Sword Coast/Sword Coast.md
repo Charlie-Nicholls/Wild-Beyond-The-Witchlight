@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Western Heartlands]]"
 ---
 
-![[swordCoast.jpg|banner]]
+![[imgSwordCoast.jpg|banner]]
 ###### The Sword Coast
 <span class="sub2">:FasMap: Province</span>
 ___

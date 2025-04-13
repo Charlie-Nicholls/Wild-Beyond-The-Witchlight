@@ -3,7 +3,7 @@ type: plane
 displayLink: "[[Material Plane]]"
 ---
 
-![[materialPlane.avif|banner]]
+![[imgMaterialPlane.avif|banner]]
 ###### Material Plane
 <span class="sub2">:FasCircleHalfStroke: Plane of Existence</span>
 ___
