@@ -198,7 +198,12 @@ When [[The Sandman]] first appears play the following sound clip. Slowing increa
 ### End
 - When they reach sufficient [[Gem Shards]], they start to glow when pointing towards reception. Or they can just stumble upon reception randomly.
 - Here are a bunch more [[Gem Shards]] laid out in the shape of the magnification rune, and a partially completed polarity reversal rune.
-- [[Warwin Squiggle]], the [[The Echoes|Echo]] of a gnomish wizard who was trapped here. Before his death he learned about [[Summer Night]] and was determined to find a way to save her. He used the natural magic of the [[Gem Shards]] to trap people along with a  magnification rune to bring in more people to give [[The Sandman]] more dreams to extend [[Summer Night|Summer]]'s life while he worked on the reversal rune, but died before it was complete. He is now one of [[The Echoes]], trapped in a loop of bringing people in and hoping but unable to get the [[Gem Shards]] he needs to finish his work before he is reset.
+- [[Warwin Squiggle]], the [[The Echoes|Echo]] of a gnomish wizard who was trapped here. 
+	- Before his death he learned about [[Summer Night]] and was determined to find a way to save her. 
+	- He used the natural magic of the [[Gem Shards]] to trap people along with a magnification rune to bring in more people to give [[The Sandman]] more dreams to extend [[Summer Night|Summer]]'s life while he worked on the reversal rune. 
+	- He finished the rune and scribbled it on the back of the leaflet the players found, and succumbed to exhaustion when out looking for final [[Gem Shards]] he needed. This is the body they found at the start.
+	- He is now one of [[The Echoes]], trapped in a loop of bringing people in and trying to finish his rune and obtain the [[Gem Shards]] he needs to finish.
+	- He will be put at peace when shown the completed runes and [[Gem Shards]] gathered by the players. His illusion of life beginning to break down as the players finish the story.
 - [[Summer Night]] is in a bed in a staff room behind the reception desk. When the players get here, [[The Sandman]] will enter/be in this room protecting [[Summer Night|Summer]].
-- [[The Sandman]]'s sand will be running low to indicate she is running out of dreams. If the players donate a dream, whoever is asleep will be able to speak to [[The Sandman]]
+- [[The Sandman]]'s sand will be running low to indicate she is running out of dreams. If the players donate a dream, whoever is asleep will be able to speak to [[The Sandman]].
 - Anyone awake will be able to speak to [[Summer Night]] by entering any room, by default they will enter room 1, the dream of [[Summer Night|Summer]] running through a forest, entering the [[Feywild]] and meeting a hag.
