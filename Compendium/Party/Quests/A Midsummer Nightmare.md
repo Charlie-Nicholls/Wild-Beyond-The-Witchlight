@@ -182,12 +182,22 @@ When [[The Sandman]] first appears play the following sound clip. Slowing increa
 
 ### Start
 
-The first room they enter is a lavish bed room with an enormous oversized bed at its centre. In the middle of the bed is the body of an orc. If they get close enough they can see he is holding brochure with "DON'T LET HIM TOUCH YOU" scrawled across it and that he shows signs of exhaustion, but no wounds. At this point they hear a scuffle from beneath the bed. Read:
+- The first room they enter is a lavish bed room with an enormous oversized bed at its centre. In the middle of the bed is the body of a gnome.
+- If they get close enough they can see he is holding brochure with "DON'T LET HIM TOUCH YOU" scrawled across it, sketches of various runes.
+- A DC 15 Intelligence (Arcana) check reveals on of the rune is a magical magnification and the other is an polarity reverser
+- A DC 10 Intelligence (Investigation) check on the body shows he has signs of exhaustion, but no wounds.
+- At this point they hear a scuffle from beneath the bed. Read:
 
 > [!recite|clean no-t]
->	You hear a muffled scuffling sound coming from beneath you. It's probably nothing dangerous, but you realise you forgot something. You see, there are two types of people who check underneath the bed before they go to sleep. Children, because they're naive enough to think there might be monsters under the bed, and adventurers, because they're experienced enough to know that there might be monsters under the bed. You forgot to check under the bed.
+>	You hear a muffled scuffling sound coming from beneath you. It's probably nothing dangerous, but you realise you forgot something. You see, there are two types of people who check underneath the bed before they go to sleep. Children, because they're naïve enough to think there might be monsters under the bed, and adventurers, because they're experienced enough to know that there might be monsters under the bed. You forgot to check under the bed.
 >^StartMonster
 
-Looking under the bed will reveal an unnatural level of darkness. At this point start [[The Sandman]] music. [[Summer Night]] is under the bed, and a high perception check will let them see her and she will ask for their help before an invisible monster grabs her and drags her further under the bed and she leaves the dream room. If they insist on trying to follow her, a door leading to a room of my choice can be found under the bed.
+- Looking under the bed will reveal an unnatural level of darkness. At this point start [[The Sandman]] music.
+- [[Summer Night]] is under the bed, and a DC 12 Wisdom (Perception) check or dark vision will let them see her and she will ask for their help before an invisible monster grabs her, drags her further under the bed and she leaves the dream room. If they insist on trying to follow her, a door leading to a room of your choice can be found under the bed.
 
 ### End
+- When they reach sufficient [[Gem Shards]], they start to glow when pointing towards reception. Or they can just stumble upon reception randomly.
+- Here are a bunch more [[Gem Shards]] laid out in the shape of the magnification rune, and a partially completed polarity reversal rune.
+- [[Warwin Squiggle]], the [[The Echoes|Echo]] of a gnomish wizard who was trapped here. Before his death he learned about [[Summer Night]] and was determined to find a way to save her. He used the natural magic of the [[Gem Shards]] to trap people along with a  magnification rune to bring in more people to give [[The Sandman]] more dreams to extend [[Summer Night|Summer]]'s life while he worked on the reversal rune, but died before it was complete. He is now one of [[The Echoes]], trapped in a loop of bringing people in and hoping but unable to get the [[Gem Shards]] he needs to finish his work before he is reset.
+- [[Summer Night]] is in a bed in a staff room behind the reception desk. When the players get here, [[The Sandman]] will enter/be in this room protecting [[Summer Night|Summer]].
+- [[The Sandman]]'s sand will be running low to indicate she is running out of dreams. If the players donate a dream, whoever is asleep will be able to speak to [[The Sandman]], anyone awake will be able to speak to [[Summer Night]] when the dream is brought to life in her room.
