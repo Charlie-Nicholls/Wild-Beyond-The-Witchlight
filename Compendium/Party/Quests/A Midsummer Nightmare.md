@@ -54,9 +54,8 @@ Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relent
 > ![[Chase track Rules.png]]
 
 ### The Sandman
-
-**The Sandman description:**
-![[The Sandman#^IntroText|clean collapse nlk]]
+> [!recite|clean no-t]
+>	Long thin legs seem to make up the majority of his height with only a small torso attached. Inhumanly spindly arms reach out twice as far as is comfortable from body, each with two elbows that allow it to bend in either direction. One had is perpetually clenched into a fist, with a constant trickle of sand falling between his fingers, marking a path of dust wherever he treads. In the other is a circle of thread, woven into an intricate pattern, with several black feathers tied to the rim. He wears a dark cloak, draped loosely over his almost insect like body, and those unlucky enough to catch a glimpse under his dark hood would see his eyes are sewn shut.
 
 If [[The Sandman]] touches any of the players, he will steal one of their dreams and they take a level of exhaustion.
 
