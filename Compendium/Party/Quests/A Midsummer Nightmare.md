@@ -13,7 +13,7 @@ share_updated: 2025-04-23T21:21:21+01:00
 ---
 
 ### Description
-At the age of 10, [[Summer Night]] ran away from home and got lost in the [[Feywild]]. She made a deal with a  [[Babayaga or maybe Endelyn Moonshade|hag]], who gave her the power to make her dreams a reality, but in return cursed her to die the next time she woke. Her first dream was of [[The Sandman]], a creature that would tend to her while she slept. His right hand is clenched in a fist, through which runs sand that represents how long [[Summer Night|Summer]] has before she runs out of dreams and wakes. In his left he holds a dream-catcher, which he can use on the sleeping to steal their dreams and bring them to [[Summer Night|Summer]] to give to her. 
+At the age of 10, [[Summer Night]] ran away from home and got lost in the [[Feywild]]. She made a deal with a hag, who gave her the power to make her dreams a reality, but in return cursed her to die the next time she woke. Her first dream was of [[The Sandman]], a creature that would tend to her while she slept. His right hand is clenched in a fist, through which runs sand that represents how long [[Summer Night|Summer]] has before she runs out of dreams and wakes. In his left he holds a dream-catcher, which he can use on the sleeping to steal their dreams and bring them to [[Summer Night|Summer]] to give to her. 
 
 After a while she would dream of [[Hotel Midsummer]] which quickly became a popular stop off for travellers in the [[Feywild]], boasting the ability to let you live your dream. [[The Sandman]] would collect a dream as you slept and bring it to [[Summer Night|Summer]], weaving it into the dream of the hotel. It is then be brought to life in your room, ready for you to experience when you wake and allowing [[Summer Night|Summer]] to continue to sleep and live in the dreams of others. The dream is kept alive in that room forever as payment, and you would never be able to dream it again. It's said the twisting space of the hotel's interior goes on forever; that everyone has a room ready for them somewhere.
 
@@ -21,50 +21,104 @@ But [[Summer Night|Summer]] and her [[Hotel Midsummer|Hotel]] have become trappe
 
 Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relentlessly by [[The Sandman]]. A creature which can only be seen when your eyes are closed, who sends to sleep any who he touches. In his time here he has learned the nature of the gem and believes they can at last escape, if only he can collect a few more [[The Gem#Gem Shards]] to finish his teleportation device, before [[Summer Night|Summer]] wakes up. But, with the hotel infested with nightmares and far beyond saving, this would surely result only more people becoming ensnared, and the horrors held within escaping into the [[Feywild]]. But [[Summer Night|Summer]] is tired and scared, living in an endless nightmare. Would she even want to be saved if he could?
 
-### Room Ideas
+### Images
+
+> [!info|no-i]- Hallway
+> ![[imgHotelMidsummerCorridor.jpg]]
+
+> [!info|no-i]- The Sandman
+> ![[imgTheSandman.png]]
+
+> [!info|no-i]- Bottomless Pit
+> ![[imgBottomlessPit.jpg]]
+
+> [!info|no-i]- Claustrophobia and Caving
+> ![[imgCave.webp]]
+
+> [!info|no-i]- Ravine of Monsters
+> ![[imgRavine.jpg]]
+
+> [!info|no-i]- Endless Ocean
+> ![[gifOcean.mp4]]
+
+> [!info|no-i]- Lost in Camarath
+> ![[imgCamarath.jpg]]
+
+> [!info|no-i]- Fiery Voyage
+> ![[imgSeaOfFire.jpg]]
+
+> [!info|no-i]- Zamvol's Presentation
+> ![[imgOrcTent.jpg]]
+
+> [!info|no-i]- Chase Track Rules
+> ![[Chase track Rules.png]]
+
+### The Sandman
+
+**The Sandman description:**
+![[The Sandman#^IntroText|clean collapse nlk]]
+
+If [[The Sandman]] touches any of the players, he will steal one of their dreams and they take a level of exhaustion.
+
+When [[The Sandman]] first appears play the following  [music](https://www.youtube.com/watch?v=tuEllCbjbVc). Slowing increasing the volume until the players notice.
+
+```audio-player
+[[mrsandmancreepy.mp3]]
+```
+
+```statblock
+name: The Sandman
+speed: 30
+stats: [11,14,-,14,20,18]
+languages: Understands Common and Elvish but can't speak
+saves: [charisma: 7, dexterity: 5]
+skillsaves: [arcana: 7, insight: 8, perception: 8, stealth: 8]
+cr: 5
+traits:
+  - name: Non-corporeal
+    desc: The Sandman cannot be harmed, and can only be killed permantantly when Hotel Midsummer dies; successful attacks against The Sandman instead slow him down and he automatically suceeds any Constitution saving throw.
+  - name: Creature of Dreams
+    desc: The Sandman is invisible to all creatures with their eyes open. He can be briefly seen when blinking.
+```
+
+### Rooms
  - Some of the rooms are the leftovers of the long dead, some contain the [[The Echoes]].
 	 - Try to make the [[The Echoes]] heart breaking
-	 - [[The Echoes]] are trapped in [[The Gem#Gem Shards]], helping them move on will reveal the shards and allow the players to collect them.
- - Three main types of rooms, chase, challenge and echo rooms.
+	 - [[The Echoes]] are trapped in [[The Gem#Gem Shards]], helping them move on will reveal 10 shards and allow the players to collect them.
+ - Three types of rooms, chase, challenge and echo rooms.
 	 - Chase rooms are easier to navigate but will have them being closely perused by [[The Sandman]], having to find ways to slow him down or get through quickly
 	 - Challenged focused rooms present some obstacle to exiting the room that has to be overcome, use one of these when they get away from [[The Sandman]] to justify him catching up
-	 - Echo Rooms can be either chase or challenge rooms but contain an echo of a former guest who presents a side quest that will reward them with an additional 9 [[The Gem#Gem Shards]] if they complete.
- - If [[The Sandman]] steals any of the party's dreams, these can appear as chase or challenge rooms later.
+	 - Echo Rooms can be either chase or challenge rooms but contain an echo of a former guest, players who successfully help them get rewarded with extra [[The Gem#Gem Shards]]
+ - If [[The Sandman]] steals any of the party's dreams, these can appear as chase or challenge rooms later
+ - Rooms can lead into each other or back into the corridor at the DMs discretion, usually into the corridor only after a chase track has been completed.
+ - Below are some examples of rooms but more can be created easily. Most are based off common nightmares, but they could be nicer dreams from past guests as long as they present an interesting challenge a chase with [[The Sandman]].
 
-**Challenge Rooms**
-
-bard with stage fright, generic monster, fear of places e.g. elemental planes, monster pit e.g. scorpions
-
-> [!recite|nbrd no-i] Bottomless Pit
+> [!recite|nbrd no-i] Bottomless Pit (Challenge)
 > - Infinite falling loop
 > - Have to make it to the other side
 
-> [!recite|nbrd no-i] Claustrophobia and Caving
+> [!recite|nbrd no-i] Claustrophobia and Caving (Challenge or Chase)
 > - Crawl through a maze of tight spaces
 > - Then when they get to open space have walls close in, door in hard to reach location or hidden
 
-> [!recite|nbrd no-i] Ravine of Monsters
+> [!recite|nbrd no-i] Ravine of Monsters (Challenge or Chase)
 > - Have to make your way through a ravine, full of monsters
 > - Exit on the other side
 
-**Chase Rooms**
-
-> [!recite|nbrd no-i] Endless Ocean
+> [!recite|nbrd no-i] Endless Ocean (Chase)
 > - Dropped in the deep ocean
 > - Something trying to drag you down and drown you
 > - Exit door at the base of a waterfall
 
-> [!recite|nbrd no-i] Lost in Camarath
+> [!recite|nbrd no-i] Lost in Camarath (Chase)
 > - End up in a city, with an intense feeling like they're late and need to get to the city centre
 > - Hard to navigate, maps make no sense.
 > - Can do stuff like moving feeling like it's not getting you anywhere, space wrapping back on itself
 > - City is split into 3 concentric walled sections that can mark progress
 
-**Echo Rooms**
-
-> [!recite|nbrd no-i] Fiery Voyage
+> [!recite|nbrd no-i] Fiery Voyage (Chase and Echo)
 > - Find themselves on a boat navigating a sea of fire
-> - [[The Echoes|Echo]] of Captain Bill Ironheart (Personality of Bill Seacaster)
+> - [[The Echoes|Echo]] of Captain [[The Echoes#Bill Ironheart]]
 > 	- This is a dream of something that happened in his past
 > 	- Unclear if it is a dream or nightmare, he clearly loves the danger but lost a lot of crew in the journey
 > 	- Saving enough of his crew will free him from being an [[The Echoes|Echo]] and reward them with [[The Gem#Gem Shards]]
@@ -74,9 +128,9 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > 	- Firestorms on the wind
 > - Pilot the boat towards the land where the door is on the beach
 
-> [!recite|nbrd no-i] Zamvol's Presentation
+> [!recite|nbrd no-i] Zamvol's Presentation (Echo)
 > - Something funny like a nerdy orc's nightmare about having to give a presentation on a new axe/hunting method they came up with to a tribe of classic jocks
-> - [[The Echoes|Echo]] of Zamvol The Useless
+> - [[The Echoes|Echo]] of [[The Echoes#Zamvol The Useless]]
 > 	- Clever but weak and shy Orc
 > 	- Has designed a new axe with magic infused that keeps it sharper and more durable
 > - Dream character of Grug The Skullsplitter, orc chieftan 
@@ -131,53 +185,10 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > 	- Medium-Medium is used when unsure.
 > 	- Medium-High is usually used for melee attacks that require a player to approach [[The Sandman]] to attack them.
 
-### Images
-
-> [!info|no-i]- Hallway
-> ![[imgHotelMidsummerCorridor.jpg]]
-
-> [!info|no-i]- The Sandman
-> ![[imgTheSandman.png]]
-
-> [!info|no-i]- Bottomless Pit
-> ![[imgBottomlessPit.jpg]]
-
-> [!info|no-i]- Claustrophobia and Caving
-> ![[imgCave.webp]]
-
-> [!info|no-i]- Ravine of Monsters
-> ![[imgRavine.jpg]]
-
-> [!info|no-i]- Endless Ocean
-> ![[gifOcean.mp4]]
-
-> [!info|no-i]- Lost in Camarath
-> ![[imgCamarath.jpg]]
-
-> [!info|no-i]- Fiery Voyage
-> ![[imgSeaOfFire.jpg]]
-
-> [!info|no-i]- Zamvol's Presentation
-> ![[imgOrcTent.jpg]]
-
-> [!info|no-i]- Chase Track Rules
-> ![[Chase track Rules.png]]
-
-### The Sandman
-
-**The Sandman description:**
-![[The Sandman#^IntroText|clean collapse nlk]]
-
-If [[The Sandman]] touches any of the players, he will steal one of their dreams and they take a level of exhaustion.
-
-When [[The Sandman]] first appears play the following sound clip. Slowing increasing the volume until the players notice.
-
-```audio-player
-[[mrsandmancreepy.mp3]]
-```
-
 ### Start
-- Describe them dreaming about being [[Summer Night]], running through a forest and finding a pool of water through which the feywild can be seen. A shadowy figure in a cloak can be seen in the pool, when they enter the pool they wake.
+- Describe them dreaming about being [[Summer Night]], running through a forest and finding a pool of water through which the [[Feywild]] can be seen. A shadowy figure in a cloak can be seen in the pool, when they enter the pool they wake.
+	- This is the night she ran away from home and made a deal to bring her dreams to life.
+	- Shadowy figure is the hag she makes a deal with, but the description looks similar to the [[The Sandman]].
 - The first room they enter is a lavish bed room with an enormous oversized bed at its centre. In the middle of the bed is the body of a gnome.
 - If they get close enough they can see he is holding brochure with "DON'T LET HIM TOUCH YOU" scrawled across it, sketches of various runes.
 - A DC 15 Intelligence (Arcana) check reveals on of the rune is a magical magnification and the other is an polarity reverser
@@ -198,7 +209,7 @@ When [[The Sandman]] first appears play the following sound clip. Slowing increa
 - If session time runs out before sufficient gems have been collected, they will be expelled from [[The Gem]] without saving [[Summer Night]]
 #### Reception
 - Here are a bunch more [[The Gem#Gem Shards]] laid out in the shape of the magnification rune, and a partially completed polarity reversal rune.
-- Warwin Squiggle, the [[The Echoes|Echo]] of a gnomish wizard who was trapped here. 
+- [[The Echoes#Warwin Squiggle]], the [[The Echoes|Echo]] of a gnomish wizard who was trapped here. 
 	- Before his death he learned about [[Summer Night]] and was determined to find a way to save her. 
 	- He used the natural magic of the [[The Gem#Gem Shards]] to trap people along with a magnification rune to bring in more people to give [[The Sandman]] more dreams to extend [[Summer Night|Summer]]'s life while he worked on the reversal rune. 
 	- He finished the rune and scribbled it on the back of the leaflet the players found, and succumbed to exhaustion when out looking for the final [[The Gem#Gem Shards]] he needed. This is the body they found at the start.
