@@ -3,9 +3,9 @@ type: quest
 target: 
 locations: 
 displayLink: "[[A Midsummer Nightmare]]"
-status: Pending
+status: Complete
 share_link: https://share.note.sx/ku95393r
-share_updated: 2025-04-01T20:32:54+01:00
+share_updated: 2025-04-23T21:21:21+01:00
 ---
 ###### A Midsummer Nightmare
 <span class="sub2"> :FasCircleExclamation: Quest | :FasListCheck: `=this.status` </span>
@@ -90,10 +90,10 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 
 > [!recite|nbrd no-i] Chase Track
 > - When a chase begins, [[The Sandman]] and the players are placed on the chase track, with the players slightly ahead. (tile 9 vs 1, target 21)
-> - The players and [[The Sandman]] then alternate turns. With the players taking 2 turns for every 1 of [[The Sandman]].
+> - The players and [[The Sandman]] then alternate turns. Starting with the players taking a turn, then [[The Sandman]], after which the players take 2 turns for every 1 of [[The Sandman]]. 
 > - The track does not only represent physical distance, but the "advantage" the players have over [[The Sandman]] in the chase, so, for example, being hidden, putting obstacles in his way or learning useful information are represented by the distance on the track but don't have a physical distance in of themselves.
 > - Players can not take damage from the dreams, but they will still feel the pain or effects until they leave the room. Instead of damage, these effects are measured on the Chase Track
-> - The players may either make a group check (use the mean) or have someone make an individual check. If a player makes an individual check, they cannot do so again until the others have made individual checks. (Can also do for example a pair check, take average, both players must wait till the other two make a pair or two individual checks before they can go again.)
+> - The players may either make a group check or have someone make an individual check. If a player makes an individual check, they cannot do so again until the others have made individual checks. (Can also do for example a pair or trio check, players must wait till the others make a checks of their own before they can make non-group checks.)
 > - Refer to the Risk/Reward-Difficulty table to determine the movement that occurs during a players turn.
 > - [[The Sandman]] on his turn makes his own check and rolls on the following table:
 >> [!recite|clean no-t]
@@ -105,12 +105,12 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > - When rounding corners on the chase track there are two types of D6s that are rolled
 > - Between the players and the exit is are two D6 representing [[The Gem#Gem Shards]], if players pass this point they can roll the D6 + 3 to determine how many [[The Gem#Gem Shards]] they find.
 >	- If they are caught by [[The Sandman]] before reaching this point he will instead steal the remaining [[The Gem#Gem Shards]]
-> - Between [[The Sandman]] and the players starting point are a further two Fate Dice that he rolls to affect the dream itself.
->	- [[The Sandman]] takes an additional action on the following table and the players make a saving throw of the stated DC. If they can justify using another ability instead of a saving throw allow it.
+> - Between [[The Sandman]] and the players starting point are a further two D3s that he rolls to affect the dream itself.
+>	- [[The Sandman]] takes an additional action on the following table and the players make a saving throw of the stated DC. Can be flexible and do a forced ability check instead of a saving throw.
 >	- [[The Sandman]] moves forward an amount equal to the number of players who failed the save.
 >
 >> [!recite|clean no-t]
->> | Roll | - |   | + |
+>> | Roll | "-" (1/2) | " " (3/4) | "+" (5/6) |
 >> |  :---: | :---: |  :---: |  :---: |
 >> | **Save DC** | 8 | 12 | 16 |
 
@@ -127,6 +127,7 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > - If the Chase track is taking too long to complete, instead try starting the players at position 5 instead of 9 and giving both players and The Sandman a default +1 to all movement. Ignoring the starting conditions this could also be adjusted mid chase by adding 1 to both movements. Since players don't see the tables being rolled on they won't know this is a change.
 > - [[The Sandman]] has an AC of 16 and any attempt to attack him counts as medium difficulty on the RR/Diff table. 
 > 	- Attacking can also be considered Medium-Low (DC 16 +2/-0) if the player makes some sacrifice to make the attack, e.g. using a spell slot. This is also the default for effects that require [[The Sandman]] to make a saving throw.
+> 	- Attacks made against [[The Sandman]] have disadvantage if the player does not close their eyes. Though closing their eyes for this can result in disadvantage on other rolls.
 > 	- Medium-Medium is used when unsure.
 > 	- Medium-High is usually used for melee attacks that require a player to approach [[The Sandman]] to attack them.
 
@@ -187,18 +188,22 @@ When [[The Sandman]] first appears play the following sound clip. Slowing increa
 >	You hear a muffled scuffling sound coming from beneath you. It's probably nothing dangerous, but you realise you forgot something. You see, there are two types of people who check underneath the bed before they go to sleep. Children, because they're naïve enough to think there might be monsters under the bed, and adventurers, because they're experienced enough to know that there might be monsters under the bed. You forgot to check under the bed.
 >^StartMonster
 
-- Looking under the bed will reveal an unnatural level of darkness. At this point start [[The Sandman]] music.
-- [[Summer Night]] is under the bed, and a DC 12 Wisdom (Perception) check or dark vision will let them see her and she will ask for their help before an invisible monster grabs her, drags her further under the bed and she leaves the dream room. If they insist on trying to follow her, a door leading to a room of your choice can be found under the bed.
+- Looking under the bed will reveal an unnatural level of darkness. At this point [[The Sandman]] and his music starts echoing in from the corridor.
+- [[Summer Night]] is under the bed, and a DC 12 Wisdom (Perception) check or dark vision will let them see her and she will ask for their help before an invisible monster grabs her, drags her further under the bed and she leaves the dream room. If they try to follow her, a door leading to a room of your choice can be found under the bed.
+- If they go into the corridor before [[The Sandman]] reaches them, they will be chased down until the hotel manipulates its interior to lead them at a dead end with two or three doors they can look through before they choose which to enter.
 
 ### End
-- When they reach sufficient [[The Gem#Gem Shards]], they start to glow when pointing towards reception. Or they can just stumble upon reception randomly.
+- When they reach sufficient [[The Gem#Gem Shards]], they start to glow when pointing towards reception. Or they can locate reception in some other way, e.g. travelling down hallways in the direction of lower numbered doors.
+- [[Summer Night|Summer]] will tell them to find reception if spoken to.
+- If session time runs out before sufficient gems have been collected, they will be expelled from [[The Gem]] without saving [[Summer Night]]
+#### Reception
 - Here are a bunch more [[The Gem#Gem Shards]] laid out in the shape of the magnification rune, and a partially completed polarity reversal rune.
-- [[Warwin Squiggle]], the [[The Echoes|Echo]] of a gnomish wizard who was trapped here. 
+- Warwin Squiggle, the [[The Echoes|Echo]] of a gnomish wizard who was trapped here. 
 	- Before his death he learned about [[Summer Night]] and was determined to find a way to save her. 
 	- He used the natural magic of the [[The Gem#Gem Shards]] to trap people along with a magnification rune to bring in more people to give [[The Sandman]] more dreams to extend [[Summer Night|Summer]]'s life while he worked on the reversal rune. 
-	- He finished the rune and scribbled it on the back of the leaflet the players found, and succumbed to exhaustion when out looking for final [[The Gem#Gem Shards]] he needed. This is the body they found at the start.
+	- He finished the rune and scribbled it on the back of the leaflet the players found, and succumbed to exhaustion when out looking for the final [[The Gem#Gem Shards]] he needed. This is the body they found at the start.
 	- He is now one of [[The Echoes]], trapped in a loop of bringing people in and trying to finish his rune and obtain the [[The Gem#Gem Shards]] he needs to finish.
 	- He will be put at peace when shown the completed runes and [[The Gem#Gem Shards]] gathered by the players. His illusion of life beginning to break down as the players finish the story.
-- [[Summer Night]] is in a bed in a staff room behind the reception desk. When the players get here, [[The Sandman]] will enter/be in this room protecting [[Summer Night|Summer]].
+- [[Summer Night]] is in a bed in a staff room behind the reception desk. When the players get here, [[The Sandman]] will enter or already be in this room protecting [[Summer Night|Summer]].
 - [[The Sandman]]'s sand will be running low to indicate she is running out of dreams. If the players donate a dream, whoever is asleep will be able to speak to [[The Sandman]].
-- Anyone awake will be able to speak to [[Summer Night]] by entering any room, by default they will enter room 1, the dream of [[Summer Night|Summer]] running through a forest, entering the [[Feywild]] and meeting a hag.
+- Anyone awake will be able to speak to [[Summer Night]] by entering any room, room 1, the nearest room to reception, is the dream of [[Summer Night|Summer]] running through a forest, entering the [[Feywild]] and meeting a hag.

@@ -59,11 +59,13 @@ The patron of [[Hotel Midsummer]], once a kindly being who would take the dreams
 name: The Sandman
 speed: 30
 stats: [11,14,-,14,20,18]
-languages: All
+languages: Understands Common and Elvish but can't speak
 saves: [charisma: 7, dexterity: 5]
 skillsaves: [arcana: 7, insight: 8, perception: 8, stealth: 8]
 cr: 5
 traits:
   - name: Non-corporeal
-    desc: The Sandman cannot be harmed, and can only be killed permantantly when Hotel Midsummer dies; successful attacks against The Sandman instead slow him down and he automatically suceeds any Constitution saving throw. Additionally, The Sandman is invisible to all creatures with their eyes open.
+    desc: The Sandman cannot be harmed, and can only be killed permantantly when Hotel Midsummer dies; successful attacks against The Sandman instead slow him down and he automatically suceeds any Constitution saving throw.
+  - name: Creature of Dreams
+    desc: The Sandman is invisible to all creatures with their eyes open. He can be briefly seen when blinking.
 ```
