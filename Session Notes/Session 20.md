@@ -4,8 +4,8 @@ number: 20
 date: 2025-04-02
 locations:
 - "[[Prismeer]]"
-alias: "TBD"
-displayLink: "[[Session 20|Session 20:  TBD]]"
+alias: "Speak With Animals"
+displayLink: "[[Session 20|Session 20:  Speak With Animals]]"
 ---
 
 ![[session.png|banner]]
@@ -15,7 +15,7 @@ ___
 
 > [!column|flex 4]
 > 
->> [!info|flex]- Players:
+>> [!info|flex]- PLAYERS:
 >> - [[Thalia Evergreen]]
 >> - [[Dapple]]
 >> - [[Spring Onion]]
