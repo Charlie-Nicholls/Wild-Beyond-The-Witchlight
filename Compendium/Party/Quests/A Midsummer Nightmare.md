@@ -22,7 +22,6 @@ But [[Summer Night|Summer]] and her [[Hotel Midsummer|Hotel]] have become trappe
 Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relentlessly by [[The Sandman]]. A creature which can only be seen when your eyes are closed, who sends to sleep any who he touches. In his time here he has learned the nature of the gem and believes they can at last escape, if only he can collect a few more [[The Gem#Gem Shards]] to finish his teleportation device, before [[Summer Night|Summer]] wakes up. But, with the hotel infested with nightmares and far beyond saving, this would surely result only more people becoming ensnared, and the horrors held within escaping into the [[Feywild]]. But [[Summer Night|Summer]] is tired and scared, living in an endless nightmare. Would she even want to be saved if he could?
 
 ### Room Ideas
- - Remember to use the interactives principle to describe rooms
  - Some of the rooms are the leftovers of the long dead, some contain the [[The Echoes]].
 	 - Try to make the [[The Echoes]] heart breaking
 	 - [[The Echoes]] are trapped in [[The Gem#Gem Shards]], helping them move on will reveal the shards and allow the players to collect them.
@@ -30,7 +29,7 @@ Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relent
 	 - Chase rooms are easier to navigate but will have them being closely perused by [[The Sandman]], having to find ways to slow him down or get through quickly
 	 - Challenged focused rooms present some obstacle to exiting the room that has to be overcome, use one of these when they get away from [[The Sandman]] to justify him catching up
 	 - Echo Rooms can be either chase or challenge rooms but contain an echo of a former guest who presents a side quest that will reward them with an additional 9 [[The Gem#Gem Shards]] if they complete.
- - If [[The Sandman]] steals any of the party's dreams, these can appear as chase or challenge rooms later
+ - If [[The Sandman]] steals any of the party's dreams, these can appear as chase or challenge rooms later.
 
 **Challenge Rooms**
 
@@ -154,17 +153,11 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > [!info|no-i]- Lost in Camarath
 > ![[imgCamarath.jpg]]
 
-> [!info|no-i]- TBD
-> ![[]]
-
 > [!info|no-i]- Fiery Voyage
 > ![[imgSeaOfFire.jpg]]
 
 > [!info|no-i]- Zamvol's Presentation
 > ![[imgOrcTent.jpg]]
-
-> [!info|no-i]- TBD
-> ![[]]
 
 > [!info|no-i]- Chase Track Rules
 > ![[Chase track Rules.png]]
@@ -173,6 +166,8 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 
 **The Sandman description:**
 ![[The Sandman#^IntroText|clean collapse nlk]]
+
+If [[The Sandman]] touches any of the players, he will steal one of their dreams and they take a level of exhaustion.
 
 When [[The Sandman]] first appears play the following sound clip. Slowing increasing the volume until the players notice.
 
