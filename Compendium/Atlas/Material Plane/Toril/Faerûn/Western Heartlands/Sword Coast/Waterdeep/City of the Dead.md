@@ -6,7 +6,7 @@ locations:
 displayLink: "[[City of the Dead]]"
 ---
 
-![[cityDead.webp|banner]]
+![[imgCityDead.webp|banner]]
 ###### City of the Dead
 <span class="sub2">:FasGhost: Cemetery</span>
 ___

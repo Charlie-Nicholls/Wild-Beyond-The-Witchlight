@@ -31,3 +31,5 @@ ___
 
 ### Description
 Description of the magic item, The Gem.
+
+### Gem Shards

@@ -33,7 +33,7 @@ ___
 # Profile
 
 > [!recite|clean no-t]
->	Introduction for players
+>	Souls of past guests, trapped in repeating nightmares
 >^IntroText
 
 ### Description
@@ -41,5 +41,7 @@ Perhaps the most existentially horrifying  Mortals who died in a room with [[Gem
 
 If they can be helped to break the narrative of the dream, they can be made to remember their situation and in doing so their soul will be able to leave the gem. When the dream sequence breaks stuff begins to slip through, usually first an unexpected feeling of intense tiredness, which will make little sense to them as they feel like they're already asleep.
 
-### Appearances
-- 
+### Characters
+#### Zamvol The Useless
+
+#### Bill Ironheart

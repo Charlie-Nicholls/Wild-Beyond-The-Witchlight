@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Baldurs Gate]]"
 ---
 
-![[baldursGate.webp|banner]]
+![[imgBaldursGate.webp|banner]]
 ###### Baldurs Gate
 <span class="sub2">:FasCity: City</span>
 

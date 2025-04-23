@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Toril]]"
 ---
 
-![[toril.jpg|banner]]
+![[imgToril.jpg|banner]]
 ###### Toril
 <span class="sub2">:FasGlobe: Realm (world)</span>
 ___

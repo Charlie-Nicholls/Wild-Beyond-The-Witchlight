@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[Hotel Midsummer]]"
 displayLink: "[[Summer Night]]"
+alias: "Summer"
 ---
 ###### Summer Night
 <span class="sub2">:FasMapLocationDot: [[Hotel Midsummer]] | :FasHeartPulse: Friendly </span>
