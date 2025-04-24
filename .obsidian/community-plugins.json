@@ -11,11 +11,11 @@
   "templater-obsidian",
   "initiative-tracker",
   "obsidian-5e-statblocks",
-  "obsidian-dice-roller",
   "global-search-and-replace",
   "obsidian-leaflet-plugin",
   "pinned-notes",
   "obsidian-git",
   "image-window",
-  "obsidian-audio-player"
+  "obsidian-audio-player",
+  "share-note"
 ]

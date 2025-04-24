@@ -5,7 +5,7 @@ locations:
 displayLink: "[[A Midsummer Nightmare]]"
 status: Pending
 share_link: https://share.note.sx/ku95393r
-share_updated: 2025-04-01T20:32:54+01:00
+share_updated: 2025-04-23T11:15:33+01:00
 ---
 ###### A Midsummer Nightmare
 <span class="sub2"> :FasCircleExclamation: Quest | :FasListCheck: `=this.status` </span>
@@ -21,7 +21,7 @@ But [[Summer Night|Summer]] and her [[Hotel Midsummer|Hotel]] have become trappe
 
 Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relentlessly by [[The Sandman]]. A creature which can only be seen when your eyes are closed, who sends to sleep any who he touches. In his time here he has learned the nature of the gem and believes they can at last escape, if only he can collect a few more [[The Gem#Gem Shards]] to finish his teleportation device, before [[Summer Night|Summer]] wakes up. But, with the hotel infested with nightmares and far beyond saving, this would surely result only more people becoming ensnared, and the horrors held within escaping into the [[Feywild]]. But [[Summer Night|Summer]] is tired and scared, living in an endless nightmare. Would she even want to be saved if he could?
 
-### Room Ideas
+### Rooms
  - Remember to use the interactives principle to describe rooms
  - Some of the rooms are the leftovers of the long dead, some contain the [[The Echoes]].
 	 - Try to make the [[The Echoes]] heart breaking
@@ -32,9 +32,7 @@ Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relent
 	 - Echo Rooms can be either chase or challenge rooms but contain an echo of a former guest who presents a side quest that will reward them with an additional 9 [[The Gem#Gem Shards]] if they complete.
  - If [[The Sandman]] steals any of the party's dreams, these can appear as chase or challenge rooms later
 
-**Challenge Rooms**
-
-bard with stage fright, generic monster, fear of places e.g. elemental planes, monster pit e.g. scorpions
+#### **Challenge Rooms**
 
 > [!recite|nbrd no-i] Bottomless Pit
 > - Infinite falling loop
@@ -44,11 +42,11 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > - Crawl through a maze of tight spaces
 > - Then when they get to open space have walls close in, door in hard to reach location or hidden
 
+#### **Chase Rooms**
+
 > [!recite|nbrd no-i] Ravine of Monsters
 > - Have to make your way through a ravine, full of monsters
 > - Exit on the other side
-
-**Chase Rooms**
 
 > [!recite|nbrd no-i] Endless Ocean
 > - Dropped in the deep ocean
@@ -61,7 +59,7 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > - Can do stuff like moving feeling like it's not getting you anywhere, space wrapping back on itself
 > - City is split into 3 concentric walled sections that can mark progress
 
-**Echo Rooms**
+#### **Echo Rooms**
 
 > [!recite|nbrd no-i] Fiery Voyage
 > - Find themselves on a boat navigating a sea of fire
@@ -154,17 +152,11 @@ bard with stage fright, generic monster, fear of places e.g. elemental planes, m
 > [!info|no-i]- Lost in Camarath
 > ![[imgCamarath.jpg]]
 
-> [!info|no-i]- TBD
-> ![[]]
-
 > [!info|no-i]- Fiery Voyage
 > ![[imgSeaOfFire.jpg]]
 
 > [!info|no-i]- Zamvol's Presentation
 > ![[imgOrcTent.jpg]]
-
-> [!info|no-i]- TBD
-> ![[]]
 
 > [!info|no-i]- Chase Track Rules
 > ![[Chase track Rules.png]]
@@ -194,6 +186,7 @@ When [[The Sandman]] first appears play the following sound clip. Slowing increa
 
 - Looking under the bed will reveal an unnatural level of darkness. At this point start [[The Sandman]] music.
 - [[Summer Night]] is under the bed, and a DC 12 Wisdom (Perception) check or dark vision will let them see her and she will ask for their help before an invisible monster grabs her, drags her further under the bed and she leaves the dream room. If they insist on trying to follow her, a door leading to a room of your choice can be found under the bed.
+- If they run the corridors will eventually warp to give them a choice of door between Endless Ocean and Fiery Voyage
 
 ### End
 - When they reach sufficient [[The Gem#Gem Shards]], they start to glow when pointing towards reception. Or they can just stumble upon reception randomly.
