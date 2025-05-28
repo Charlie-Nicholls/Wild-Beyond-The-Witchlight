@@ -82,9 +82,10 @@ Around her neck she wore a bow tie, woven of red and gold material. A definitely
 
 ### Magic Items / Abilities
 - [[Magical Chocolates]]
-- [[Mystery Key]]
+- [[Bavlorna's Key]]
+	- Obtained from [[Jingle Jangle]], Identified by [[Skabatha Nightshade]] as fitting [[Bavlorna Blightstraw]]'s valuables room
 - [[Persephone's Ring]]
-- [[Red Gem]]
+- [[The Gem]]
 
 ### Allies
 - [[Persephone Winter]]

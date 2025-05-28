@@ -1,18 +1,19 @@
 ---
 type: pc
-displayLink: "[[Dapple]]"
+displayLink: "[[Pippin Mantel]]"
 level: 1
 ac: 10
 hp: 10
 modifier: 0
-race: "Fairy"
-class: "Druid"
+race: "Half-Elf"
+class: "Warlock"
 subClass: "?"
-player: "Christina Ingleby"
+player: "Conor Christon"
 cover: "/Assets/Images/Portrait.jpg"
+alias: "Pippin"
 ---
 
-###### Dapple
+###### Pippin Mantel
 <span class="sub2"> :FasPerson: Player Character | `=this.player` </span>
 ___
 > [!infobox|no-t right]
@@ -22,7 +23,7 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Level   | `=this.level` |
 > | :RiSwordFill: Class |  `=this.class`|
-> | :FasMoon: Circle |  `=this.subClass`|
+> | :FasBurst: Patron |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > 
 >> [!tip]- STATS
@@ -37,7 +38,7 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND ([[Dapple]]  OR [[The Party]])
+>>FROM "Compendium/Party/Quests" AND ([[Pippin]]  OR [[The Party]])
 >>SORT file.ctime DESC
 >
 >>[!note]- HISTORY
@@ -70,4 +71,4 @@ General Description
 - [[Characters]] or [[Organisations]]
 
 ### Lost Thing
-- Colour Vision
+- Ability to Lie

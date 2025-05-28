@@ -1,18 +1,19 @@
 ---
 type: pc
-displayLink: "[[Pippin]]"
+displayLink: "[[Sarvithash Baalfulgur]]"
 level: 1
 ac: 10
 hp: 10
 modifier: 0
-race: "Half-Elf"
-class: "Warlock"
+race: "dragonborn"
+class: "sorcerer"
 subClass: "?"
-player: "Conor Christon"
-cover: "/Assets/Images/Portrait.jpg"
+player: Sebastian Ruiz
+cover: /Assets/Images/Portrait.jpg
+aliases: ["Sarv","Sarvithash"]
 ---
 
-###### Pippin
+###### Sarvithash Baalfulgur
 <span class="sub2"> :FasPerson: Player Character | `=this.player` </span>
 ___
 > [!infobox|no-t right]
@@ -22,7 +23,7 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Level   | `=this.level` |
 > | :RiSwordFill: Class |  `=this.class`|
-> | :FasBurst: Patron |  `=this.subClass`|
+> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > 
 >> [!tip]- STATS
@@ -37,7 +38,7 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND ([[Pippin]]  OR [[The Party]])
+>>FROM "Compendium/Party/Quests" AND ([[Sarvitash]]  OR [[The Party]])
 >>SORT file.ctime DESC
 >
 >>[!note]- HISTORY
@@ -70,4 +71,4 @@ General Description
 - [[Characters]] or [[Organisations]]
 
 ### Lost Thing
-- Ability to Lie
+- Family Crown

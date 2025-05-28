@@ -1,12 +1,11 @@
 ---
 type: notes
-number: 22
-date: 2025-04-25
+number: 23
+date: 2025-05-02
 locations:
-- "[[Prismeer]]"
-- "[[Loomlurch]]"
-alias: "Boggle Ambush"
-displayLink: "[[Session 22|Session 22:  TBD]]"
+ - 
+alias: "The Tragedy of Chucklehead"
+displayLink: "[[Session 23|Session 23:  TBD]]"
 ---
 
 ![[session.png|banner]]
@@ -18,18 +17,18 @@ ___
 > 
 >> [!info|flex]- Players:
 >> - [[Thalia Evergreen]]
+>> - [[Pippin Mantel]]
+>> - [[Dapple Elfstree]]
+>> - [[Brok Runebasher|Brok]]
 >> - [[Spring Onion]]
 >> - [[Cindris]]
 > 
 >> [!info|flex]- NPCS:
+>> - [[Chucklehead]]
 >> - [[Skabatha Nightshade]]
->> - [[Will of the Feywild]]
->> - [[Sowpig]]
 >
 >> [!example|flex]- LOCATIONS:
 >> - [[Loomlurch]]
->> - [[Thither]]
->> - [[Prismeer]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Quests]]
@@ -41,10 +40,7 @@ Plan for the session here.
 
 ### Notes
 - Dangerous Portent (17)
-- Spring onion enters scabatha's room but is ambushed by sowpig who throws a bottle of poisonous gas at him
-- Thalia Hundreds and Thousands the boggles
-- Cindris hear's Thalias cry for help and runs nearer to help, casting darkness to make her harder to hit
-- Dwarf is Elkhorn
+- Chucklehead saved
 
 ### Summary
 - Summary of the important points from the session here.

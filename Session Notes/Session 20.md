@@ -17,7 +17,7 @@ ___
 > 
 >> [!info|flex]- PLAYERS:
 >> - [[Thalia Evergreen]]
->> - [[Dapple]]
+>> - [[Dapple Elfstree]]
 >> - [[Spring Onion]]
 > 
 >> [!info|flex]- NPCS:

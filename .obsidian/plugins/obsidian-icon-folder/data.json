@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMail",
+      "FasPen",
+      "LiPiggyBank",
       "LiGem",
       "FasGem",
       "RiZzzFill",
       "FasHotel",
       "FasPerson",
       "FasDragon",
-      "FasUsers",
-      "LiNotepadText",
-      "LiCandy",
-      "🍫"
+      "FasUsers"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -120,6 +120,13 @@
   "Compendium/NPCs/Midsummer/Summer Night.md": "FasPerson",
   "Session Notes/Session 20.md": "LiNotepadText",
   "Session Notes/Session 21.md": "LiNotepadText",
+  "Compendium/Party/Quests/A Midsummer Nightmare.md": "FasHotel",
+  "Session Notes/Side Quest 2.md": "LiNotepadText",
   "Session Notes/Session 22.md": "LiNotepadText",
-  "Compendium/Party/Quests/A Midsummer Nightmare.md": "FasHotel"
+  "Compendium/NPCs/Minor NPCs/Sowpig.md": "LiPiggyBank",
+  "Session Notes/Session 23.md": "LiNotepadText",
+  "Session Notes/Session 24.md": "LiNotepadText",
+  "Session Notes/Session 25.md": "LiNotepadText",
+  "Compendium/Lore/Objects/Twisted Pencil.md": "FasPen",
+  "Compendium/Lore/Objects/Scabatha's Letters.md": "LiMail"
 }
