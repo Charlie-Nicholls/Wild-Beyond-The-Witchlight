@@ -1,18 +1,18 @@
 ---
 type: pc
-displayLink: "[[Sarvithash]]"
+displayLink: "[[Cindris]]"
 level: 1
 ac: 10
 hp: 10
 modifier: 0
-race: "dragonborn"
-class: "sorcerer"
-subClass: "?"
-player: Sebastian Ruiz
-cover: /Assets/Images/Portrait.jpg
+race: "Tiefling"
+class: "Rogue"
+subClass: "Arcane Trickster"
+player: "Roman Ghiam"
+cover: "/Assets/Images/Portrait.jpg"
 ---
 
-###### Sarvithash
+###### Cindris
 <span class="sub2"> :FasPerson: Player Character | `=this.player` </span>
 ___
 > [!infobox|no-t right]
@@ -22,7 +22,7 @@ ___
 > | ---- | ---- |
 > | :FasCrown: Level   | `=this.level` |
 > | :RiSwordFill: Class |  `=this.class`|
-> | :FasCircleQuestion: Sub Class |  `=this.subClass`|
+> | :RiSwordFill: Archetype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > 
 >> [!tip]- STATS
@@ -37,7 +37,7 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND ([[Sarvitash]]  OR [[The Party]])
+>>FROM "Compendium/Party/Quests" AND ([[Cindris]]  OR [[The Party]])
 >>SORT file.ctime DESC
 >
 >>[!note]- HISTORY
@@ -70,4 +70,4 @@ General Description
 - [[Characters]] or [[Organisations]]
 
 ### Lost Thing
-- Family Crown
+- Ability to Remember Faces

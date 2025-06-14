@@ -14,12 +14,12 @@
           "maximized": true
         },
         "UOY22Y466": {
-          "x": -6,
-          "y": -6,
-          "width": 1292,
-          "height": 684,
-          "fullscreen": false,
-          "maximized": true
+          "x": 1280,
+          "y": -360,
+          "width": 1920,
+          "height": 1080,
+          "fullscreen": true,
+          "maximized": false
         }
       }
     }

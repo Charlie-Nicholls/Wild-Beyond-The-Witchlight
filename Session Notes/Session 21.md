@@ -5,8 +5,8 @@ date: 2025-04-11
 locations:
 - "[[Prismeer]]"
 - "[[Loomlurch]]"
-alias: "TBD"
-displayLink: "[[Session 21|Session 21:  TBD]]"
+alias: "Returning To The Scene Of The Crime"
+displayLink: "[[Session 21|Session 21:  Returning To The Scene Of The Crime]]"
 ---
 
 ![[session.png|banner]]
@@ -21,14 +21,15 @@ ___
 >> - [[Spring Onion]]
 >> - [[Brok Runebasher|Brok]]
 >> - [[Wolly Junior]]
->> - [[Pippin]]
+>> - [[Pippin Mantel]]
 > 
 >> [!info|flex]- NPCS:
 >> - [[Will of the Feywild]]
->> - [[]]
+>> - [[Skabatha Nightshade]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> - [[Prismeer]]
+>> - [[Loomlurch]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Quests]]
@@ -49,6 +50,5 @@ Plan for the session here.
 - Wolly annihilates the undead halfling with wings (from the carnival)
 
 ### Summary
-- Summary of the important points from the session here.
-
+[[Wolly Junior]] and [[Brok Runebasher|Brok]] emerged from [[The Gem]] after [[Side Quest 1]] with the lost things of [[Lothar]] and [[Vick]]. A demon slaying battle axe and some magical pan pipes. The group reached [[Loomlurch]] and begun to execute the plan to retrieve the lost things from [[Skabatha Nightshade|Scabatha]]'s doll's house. Two Redcaps were guarding the garden; [[Pippin Mantel]] turned invisible and stood between them shouting, in an attempt to get them so angry they either die on the spot, or fight
 

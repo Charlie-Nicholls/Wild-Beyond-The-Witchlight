@@ -19,8 +19,8 @@ ___
 >> [!info|flex]- Players:
 >> - [[Thalia Evergreen]]
 >> - [[Spring Onion]]
->> - [[Pippin]]
->> - [[Sarvithash]]
+>> - [[Pippin Mantel]]
+>> - [[Sarvithash Baalfulgur]]
 >> - [[Brok Runebasher]]
 > 
 >> [!info|flex]- NPCS:
@@ -59,8 +59,8 @@ Plan for the session here.
 - dragon deeeeeeeeeead
 
 ### Summary
-The group was divided in two, with [[Thalia Evergreen|Thalia]] and the recently un-gemmed [[Pippin]] escorting the group of rescued children and [[Spring Onion]], [[Brok Runebasher|Brok]] and [[Sarvithash]] with [[Mishka]] and the paintings fleeing from [[Skabatha Nightshade|Scabatha]]'s trailing forces. [[Thalia Evergreen|Thalia]] and [[Pippin]] had a lovely time, easily navigating the forest, herding the children and a sheep with candy, and meeting [[Pippin]]'s new pseudo-dragon familiar who was christened "Tinkerbell the Noseless" in honour of the nose-less dwarf who helped [[Thalia Evergreen|Thalia]]. Tinkerbell helped scout the woods and they painlessly made their way to the pre-agreed meeting point at the [[Mushroom Circle]]. [[Pippin]] sends his familiar to find [[Will of the Feywild]] with a note explaining they have rescued some children from [[Skabatha Nightshade|Scabatha]] and want to meet.
+The group was divided in two, with [[Thalia Evergreen|Thalia]] and the recently un-gemmed [[Pippin Mantel]] escorting the group of rescued children and [[Spring Onion]], [[Brok Runebasher|Brok]] and [[Sarvithash Baalfulgur]] with [[Mishka]] and the paintings fleeing from [[Skabatha Nightshade|Scabatha]]'s trailing forces. [[Thalia Evergreen|Thalia]] and [[Pippin Mantel]] had a lovely time, easily navigating the forest, herding the children and a sheep with candy, and meeting [[Pippin Mantel]]'s new pseudo-dragon familiar who was christened "Tinkerbell the Noseless" in honour of the nose-less dwarf who helped [[Thalia Evergreen|Thalia]]. Tinkerbell helped scout the woods and they painlessly made their way to the pre-agreed meeting point at the [[Mushroom Circle]]. [[Pippin Mantel]] sends his familiar to find [[Will of the Feywild]] with a note explaining they have rescued some children from [[Skabatha Nightshade|Scabatha]] and want to meet.
 
-Meanwhile, [[Spring Onion]] and [[Mishka]] hide from [[Skabatha Nightshade|Scabatha]]'s pet dragon wyrmling [[Cradlefall]] who was chasing them along with two red caps. [[Sarvithash]] and [[Brok Runebasher|Brok]] instead stay in the open and attempt to convince [[Cradlefall]] that they hadn't just come from [[Loomlurch]], in a brazen series of lies that do not convince him but do confuse him. While [[Cradlefall]] wanders off to look for [[Mishka]], they play cards with the red caps, one of whom got so angry at losing he died on the spot. A fight breaks out with them easily killing the second red cap. Before [[Cradlefall]] catches up with them, [[Spring Onion]] creates a silent illusion of [[Mishka]] which tricks him into attacking it, giving everyone else the jump on him which allows them to unleash a flurry of spells that kill him extremely dead.
+Meanwhile, [[Spring Onion]] and [[Mishka]] hide from [[Skabatha Nightshade|Scabatha]]'s pet dragon wyrmling [[Cradlefall]] who was chasing them along with two red caps. [[Sarvithash Baalfulgur]] and [[Brok Runebasher|Brok]] instead stay in the open and attempt to convince [[Cradlefall]] that they hadn't just come from [[Loomlurch]], in a brazen series of lies that do not convince him but do confuse him. While [[Cradlefall]] wanders off to look for [[Mishka]], they play cards with the red caps, one of whom got so angry at losing he died on the spot. A fight breaks out with them easily killing the second red cap. Before [[Cradlefall]] catches up with them, [[Spring Onion]] creates a silent illusion of [[Mishka]] which tricks him into attacking it, giving everyone else the jump on him which allows them to unleash a flurry of spells that kill him extremely dead.
 
 
