@@ -84,6 +84,7 @@ Around her neck she wore a bow tie, woven of red and gold material. A definitely
 - [[Magical Chocolates]]
 - [[Bavlorna's Key]]
 	- Obtained from [[Jingle Jangle]], Identified by [[Skabatha Nightshade]] as fitting [[Bavlorna Blightstraw]]'s valuables room
+- [[Twisted Pencil]]
 - [[Persephone's Ring]]
 - [[The Gem]]
 

@@ -4,7 +4,7 @@ number: 25
 date: 2025-05-28
 locations:
  - 
-alias: "undefined"
+alias: "Dealing With Pincushion"
 displayLink: "[[Session 25|Session 25:  undefined]]"
 ---
 

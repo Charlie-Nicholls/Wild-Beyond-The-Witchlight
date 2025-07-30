@@ -4,7 +4,7 @@ number: 24
 date: 2025-05-14
 locations:
 - "[[Loomlurch]]"
-alias: "TBD"
+alias: "Taking Over Loomlurch"
 displayLink: "[[Session 24|Session 24:  TBD]]"
 ---
 
