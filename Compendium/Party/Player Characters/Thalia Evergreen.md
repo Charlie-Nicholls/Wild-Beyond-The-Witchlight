@@ -17,7 +17,7 @@ aliases: ["Thalia","Thalia Winter"]
 <span class="sub2"> :FasPerson: Player Character | `=this.player` </span>
 ___
 > [!infobox|no-t right]
-> ![[imgThaliaEvergreen.jpg|350]]
+> ![[imgThaliaEvergreen.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
