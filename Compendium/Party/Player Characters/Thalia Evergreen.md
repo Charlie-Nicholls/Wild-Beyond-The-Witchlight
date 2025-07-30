@@ -50,12 +50,14 @@ ___
 >^InfoBox
 
 > [!infobox|no-t clean right]
->```meta-bind-button
+> ```meta-bind-button
 label: Character Sheet
 icon: link
 tooltip: external character sheet
 style: default
 action: {type: open, link: https://www.dndbeyond.com/characters/116015288, newTab: true}
+
+
 
 # Profile
 
