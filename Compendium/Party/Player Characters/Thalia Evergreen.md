@@ -1,9 +1,9 @@
 ---
 type: pc
 displayLink: "[[Thalia Evergreen]]"
-level: 4
+level: 5
 ac: 12
-hp: 22
+hp: 27
 modifier: 2
 race: "High Elf"
 class: "Wizard"
