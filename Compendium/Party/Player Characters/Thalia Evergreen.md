@@ -9,7 +9,7 @@ race: "High Elf"
 class: "Wizard"
 subClass: "Chocolatier (Divination)"
 player: "Charlie Nicholls"
-cover: "/Assets/Images/Players/imgThaliaEvergreen.jpg"
+cover: "/Assets/Images/Players/imgThaliaEvergreen.png"
 aliases: ["Thalia","Thalia Winter"]
 ---
 
@@ -61,8 +61,8 @@ action: {type: open, link: https://www.dndbeyond.com/characters/116015288, newTa
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+>Introduction for players
 >^IntroText
 
 ### Description

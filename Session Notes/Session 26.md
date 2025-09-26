@@ -4,8 +4,8 @@ number: 26
 date: 2025-07-30
 locations:
 - "[[Loomlurch]]"
-alias: "TBD"
-displayLink: "[[Session 26|Session 26:  TBD]]"
+alias: "Skywriting"
+displayLink: "[[Session 26|Session 26:  Skywriting]]"
 ---
 
 ![[session.png|banner]]
@@ -17,6 +17,8 @@ ___
 > 
 >> [!info|flex]- Players:
 >> - [[Thalia Evergreen]]
+>> - [[Brok Runebasher]]
+>> - [[Spring Onion]]
 > 
 >> [!info|flex]- NPCS:
 >> - [[Characters]]
@@ -33,7 +35,18 @@ ___
 Plan for the session here.
 
 ### Notes
-- Live notes from the session here.
+- Portent 5 & 11
+- Follow up with Ella on Jack in the boxes teleportation
+- Taken scary nesting dolls
+	- Could be used to threaten Scabatha slowly
+- 15 Butterfly Saddle Mushrooms - can be used as a butter substitute
+- 4x Executioner's Hood - DC 12 con save or Feign Death spell
+- Seb has old illusion mushroom and Joel anti toxin
+- Cook Book's describing potion making
+- Book of fey puzzles and riddles
+- Boggle oil obtained
+- Hot air balloon stored in [[Nib's Cave]]
+- "Hate Scabatha? We can help {arrow}" to everyone else "The sands are running thin"
 
 ### Summary
 - Summary of the important points from the session here.
