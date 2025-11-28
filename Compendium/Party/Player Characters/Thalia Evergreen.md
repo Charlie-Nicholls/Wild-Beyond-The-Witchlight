@@ -89,6 +89,7 @@ Around her neck she wore a bow tie, woven of red and gold material. A definitely
 - [[Twisted Pencil]]
 - [[Persephone's Ring]]
 - [[The Gem]]
+- [[Circlet of Telepathy]]
 
 ### Allies
 - [[Persephone Winter]]

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCircleNotch",
       "LiNotepadText",
       "LiMail",
       "FasPen",
@@ -14,8 +15,7 @@
       "FasGem",
       "RiZzzFill",
       "FasHotel",
-      "FasPerson",
-      "FasDragon"
+      "FasPerson"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -130,5 +130,9 @@
   "Compendium/Lore/Objects/Twisted Pencil.md": "FasPen",
   "Compendium/Lore/Objects/Scabatha's Letters.md": "LiMail",
   "Session Notes/Session 26.md": "LiNotepadText",
-  "Session Notes/Session 27.md": "LiNotepadText"
+  "Session Notes/Session 27.md": "LiNotepadText",
+  "Session Notes/Session 28.md": "LiNotepadText",
+  "Compendium/Lore/Objects/Circlet of Telepathy.md": "FasCircleNotch",
+  "Session Notes/Session 29.md": "LiNotepadText",
+  "Session Notes/Session 30.md": "LiNotepadText"
 }

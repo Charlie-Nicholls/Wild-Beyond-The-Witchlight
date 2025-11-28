@@ -4,8 +4,8 @@ number: 27
 date: 2025-09-26
 locations:
 - "[[Downfall]]"
-alias: "TBD"
-displayLink: "[[Session 27|Session 27:  TBD]]"
+alias: "Your Time's Running Out"
+displayLink: "[[Session 27|Session 27:  Your Time's Running Out]]"
 ---
 
 ![[session.png|banner]]
