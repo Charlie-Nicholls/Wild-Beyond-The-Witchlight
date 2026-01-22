@@ -4,8 +4,8 @@ number: 30
 date: 2025-11-22
 locations:
  - 
-alias: "undefined"
-displayLink: "[[Session 30|Session 30:  undefined]]"
+alias: "The Infinity Cake"
+displayLink: "[[Session 30|Session 30: The Infinity Cake]]"
 ---
 
 ![[session.png|banner]]
@@ -40,7 +40,7 @@ Plan for the session here.
 	- Could be used to help find the families of the stolen children or [[Persephone Winter]]
 -  temp HP apple, wisdom apple
 - Charm of opening
-- Portents - 1
+- Portents - ~~1~~ 7
 - Standing stones, teleportation circle spell can send us here
 
 ### Summary

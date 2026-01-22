@@ -4,8 +4,8 @@ number: 31
 date: 2025-12-05
 locations:
  - 
-alias: "TBD"
-displayLink: "[[Session 31|Session 31:  TBD]]"
+alias: "The Book of Names"
+displayLink: "[[Session 31|Session 31:  The Book of Names]]"
 ---
 
 ![[session.png|banner]]

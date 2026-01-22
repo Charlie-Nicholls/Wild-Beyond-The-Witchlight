@@ -1,11 +1,11 @@
 ---
 type: notes
-number: 29
-date: 2025-11-07
+number: 32
+date: 2026-01-16
 locations:
  - 
-alias: "Pushing Our Luck"
-displayLink: "[[Session 29|Session 29: Pushing Our Luck]]"
+alias: "TBD"
+displayLink: "[[Session 32|Session 32:  TBD]]"
 ---
 
 ![[session.png|banner]]
@@ -17,8 +17,6 @@ ___
 > 
 >> [!info|flex]- Players:
 >> - [[Thalia Evergreen]]
->> - [[Spring Onion]]
->> - [[Brok Runebasher]]
 > 
 >> [!info|flex]- NPCS:
 >> - [[Characters]]
@@ -32,13 +30,11 @@ ___
 ---
 
 ### Plan
-Plan for the session here.
+Portents - 1
 
 ### Notes
-- Portents: ~~10~~ & ~~2~~
-- Danger Portent: ~~1~~
-- [[Cradlefall]] came back as a vengeance powered undead, revanant
-- Traded lillypad for a hot air balloon + pilot
+- 750 GP value shimmering silver unicorn horn
+- 1 Failed Save
 
 ### Summary
 - Summary of the important points from the session here.

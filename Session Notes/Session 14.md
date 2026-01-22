@@ -4,8 +4,8 @@ number: 14
 date: 2024-11-29
 locations:
  - 
-alias: "TBD"
-displayLink: "[[Session 14|Session 14:  TBD]]"
+alias: "Fighting Fungi"
+displayLink: "[[Session 14|Session 14: Fighting Fungi]]"
 ---
 
 ![[session.png|banner]]

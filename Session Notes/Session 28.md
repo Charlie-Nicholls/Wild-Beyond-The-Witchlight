@@ -5,7 +5,7 @@ date: 2025-10-10
 locations:
  - 
 alias: "Afterparty"
-displayLink: "[[Session 28|Session 28:  TBD]]"
+displayLink: "[[Session 28|Session 28:  Afterparty]]"
 ---
 
 ![[session.png|banner]]
