@@ -4,8 +4,8 @@ number: 32
 date: 2026-01-16
 locations:
  - 
-alias: "TBD"
-displayLink: "[[Session 32|Session 32:  TBD]]"
+alias: "Hast thou slain the Jabberwock?"
+displayLink: "[[Session 32|Session 32:  Hast thou slain the Jabberwock?]]"
 ---
 
 ![[session.png|banner]]
@@ -17,12 +17,17 @@ ___
 > 
 >> [!info|flex]- Players:
 >> - [[Thalia Evergreen]]
+>> - [[Spring Onion]]
+>> - [[Brok Runebasher]]
+>> - [[Sarvithash Baalfulgur]]
 > 
 >> [!info|flex]- NPCS:
->> - [[Characters]]
+>> - [[Jabberwock]]
+>> - [[Tasha]]
+>> - [[League of Male Violence]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> - [[LOCATIONS]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Quests]]

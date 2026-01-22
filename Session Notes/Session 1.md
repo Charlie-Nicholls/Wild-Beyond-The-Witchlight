@@ -4,8 +4,8 @@ number: 1
 date: 2024-03-15
 locations:
  - 
-alias: "TBD"
-displayLink: "[[Session 1|Session 1:  TBD]]"
+alias: "Return To The Carnival"
+displayLink: "[[Session 1|Session 1:  Return To The Carnival]]"
 ---
 
 ![[session.png|banner]]

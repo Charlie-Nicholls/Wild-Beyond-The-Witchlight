@@ -33,10 +33,10 @@ ___
 Plan for the session here.
 
 ### Notes
-- Prismia,
+- Prismeer,
 	- There is a mirror in the hall of illusions which takes you there, requires password
 	- Domain of delight in the fey wild
-	- There dwells carnival’s patron, Zybylna (ZIB-ILL-NAH)
+	- There dwells carnival’s patron, Zybyilna (ZIB-ILL-NAH)
 - Ask Witchlight to send someone with us
 
 ### Summary

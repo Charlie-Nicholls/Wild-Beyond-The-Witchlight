@@ -17,6 +17,9 @@ ___
 > 
 >> [!info|flex]- Players:
 >> - [[Thalia Evergreen]]
+>> - [[Brok Runebasher]]
+>> - [[Spring Onion]]
+>> - [[Pippin Mantel]]
 > 
 >> [!info|flex]- NPCS:
 >> - [[Characters]]

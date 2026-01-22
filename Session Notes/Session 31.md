@@ -17,6 +17,7 @@ ___
 > 
 >> [!info|flex]- Players:
 >> - [[Thalia Evergreen]]
+>> - [[Spring Onion]]
 > 
 >> [!info|flex]- NPCS:
 >> - [[Characters]]
