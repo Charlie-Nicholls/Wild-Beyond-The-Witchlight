@@ -1,11 +1,11 @@
 ---
 type: notes
-number: 12
-date: 2024-10-18
+number: 33
+date: 2026-02-13
 locations:
  - 
-alias: "Making Deals With a Hag"
-displayLink: "[[Session 12|Session 12:  TBD]]"
+alias: "Tasha Unleashed"
+displayLink: "[[Session 33|Session 33:  ]]"
 ---
 
 ![[session.png|banner]]
@@ -17,6 +17,9 @@ ___
 > 
 >> [!info|flex]- Players:
 >> - [[Thalia Evergreen]]
+>> - [[Brok Runebasher]]
+>> - [[Spring Onion]]
+>> - [[Kudo Merulos]]
 > 
 >> [!info|flex]- NPCS:
 >> - [[Characters]]
@@ -30,11 +33,10 @@ ___
 ---
 
 ### Plan
-Plan for the session here.
+Portents - 1
 
 ### Notes
-- Endelyn Moongrave has my lost thing and lives in Yonder
-- Traded away the trauma associated with the memory of the ring
+- Death saves - 19
 
 ### Summary
 - Summary of the important points from the session here.
